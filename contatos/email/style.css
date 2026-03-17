@@ -1,0 +1,114 @@
+body{
+  font-family:'Inter', sans-serif;
+  background: #f4f6f9;
+  padding:40px;
+  color:#00103b;
+  margin:0;
+}
+
+h1{
+  text-align:center;
+  margin-bottom:40px;
+  color:#00103b;
+}
+h2{
+  text-align:center;
+  margin-bottom:40px;
+  color:#00103b;
+}
+
+/* Grid responsivo */
+.grid{
+max-width:110px;
+margin:auto;
+display:grid;
+grid-template-columns:repeat(4,minmax(23px,1fr));
+gap:25px;
+}
+
+
+/* Card */
+
+.card{
+  background:white;
+  padding:25px 20px;
+  border-radius:12px;
+  box-shadow:0 6px 18px rgba(0,0,0,0.08);
+  transition:transform .25s ease, box-shadow .25s ease;
+  border:1px solid rgba(0,0,0,0.03);
+}
+
+.card:hover{
+  transform:translateY(-6px);
+  box-shadow:0 12px 28px rgba(0,0,0,0.12);
+}
+
+/* Título do card */
+.card h3{
+  margin-bottom:20px;
+  color:#00103b;
+  font-size:30px;
+  display:flex;
+  align-items:center;
+  gap:12px; /* Espaço entre ícone e texto, se houver */
+}
+
+/* Email ou telefone */
+.item{
+  padding:6px 0;
+  border-bottom:1px solid #d0d4e8;
+}
+
+.item:last-child{
+  border-bottom:none;
+}
+
+/* Links de email */
+.item a{
+  text-decoration:none;
+  color:#00103b;
+  transition:color .2s ease;
+}
+
+.item a:hover{
+  color:#0057ff;
+}
+
+/* Botão copiar */
+.copy-btn{
+  background:#00103b;
+  border:none;
+  cursor:pointer;
+  padding:3px 6px;
+  margin-left:6px;
+  border-radius:4px;
+  font-size:12px;
+  transition:background .2s;
+  color:#fff;
+}
+
+.copy-btn:hover{
+  background:#0033a0;
+}
+
+.copy-btn {
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+
+.card {
+  max-width: 280px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.copy-btn:hover {
+  background: #003ea6;
+}
+
+.grid {
+  max-width: 12000px;
+  margin: 0 auto;
+  justify-content: center;
+}
