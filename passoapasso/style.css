@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600&family=DM+Sans:wght@400;500&display=swap');
+
+:root{
+--blue-primary:#0c2d6b;
+--blue-hover:#2d6aff;
+--blue-light:#eef3ff;
+
+--bg-main:#f4f7ff;
+--card-bg:#ffffff;
+
+--text-main:#0b1d3a;
+--border:#d9e2ff;
+
+--shadow:0 8px 20px rgba(0,0,0,0.08);
+}
+
+/* RESET */
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+/* BODY */
+
+body{
+font-family:'DM Sans',sans-serif;
+background:var(--bg-main);
+padding:50px 30px;
+color:var(--text-main);
+}
+
+/* TITULO */
+
+h1{
+font-family:'Sora',sans-serif;
+text-align:center;
+margin-bottom:45px;
+font-size:28px;
+color:var(--blue-primary);
+}
+
+h2{
+font-family:'Sora',sans-serif;
+text-align:center;
+margin-bottom:40px;
+font-size:28px;
+color:var(--blue-primary);
+}
+h3{
+font-family:'Sora',sans-serif;
+text-align:center;
+margin-bottom:20px;
+font-size:28px;
+color:var(--blue-primary);
+}
+
+/* GRID */
+
+.grid{
+max-width:1100px;
+margin:auto;
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+gap:25px;
+}
+
+/* CARD */
+
+.card{
+background:var(--card-bg);
+border:1px solid var(--border);
+border-radius:15px;
+padding:29px;
+box-shadow:var(--shadow);
+text-align:center;
+transition:all .25s ease;
+}
+
+.card:hover{
+transform:translateY(-6px);
+box-shadow:0 14px 28px rgba(0,0,0,0.12);
+}
+
+/* TITULO CARD */
+
+.card h2{
+font-family:'Sora';
+font-size:18px;
+margin-bottom:15px;
+color:var(--blue-primary);
+}
+
+
+.card a{
+display:inline-block;
+text-decoration:none;
+background:var(--blue-primary);
+color:white;
+padding:10px 18px;
+border-radius:6px;
+font-size:14px;
+font-weight:500;
+transition:0.2s;
+}
+
+.card a:hover{
+background:var(--blue-hover);
+}
