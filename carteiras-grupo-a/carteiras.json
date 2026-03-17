@@ -1,0 +1,6376 @@
+{
+  "RS": [
+    {
+      "municipio_bairro": "Porto Alegre-Aberta dos Morros",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Agronomia",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Anchieta",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Arquipélago",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Auxiliadora",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Azenha",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Bela Vista",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Belém Novo",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Belém Velho",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Boa Vista",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Bom Fim",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Bom Jesus",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Camaquã",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Campo Novo",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cascata",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cavalhada",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cel Aparicio Borges",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Centro",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Chácara das Pedras",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Chapéu do Sol",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cidade Baixa",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Coronel Aparício Borges",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Costa e Silva",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cristal",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cristo Redentor",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Espírito Santo",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Farrapos",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Farroupilha",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Floresta",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Glória",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Guarujá",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Higienópolis",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Hipica",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Hípica",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Humaitá",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Independência",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Ipanema",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Botânico",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Carvalho",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim do Salso",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Dona Leopoldina",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Floresta",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Itu",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Itu-Sabará",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Lindóia",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Sabará",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim São Pedro",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Lageado",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Lami",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Lomba do Pinheiro",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Marcílio Dias",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Mário Quintana",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Medianeira",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Menino Deus",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Moinhos de Vento",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Mont'Serrat",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Morro Santana",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Navegantes",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Nonoai",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Partenon",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Passo D'Areia",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Passo das Pedras",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Pedra Redonda",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Petrópolis",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Ponta Grossa",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Praia de Belas",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Protásio Alves",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Restinga",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Rio grande 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Rio Branco",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Rio grande 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Rubem Berta",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Rio grande 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santa Cecília",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Rio grande 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santa Maria Goretti",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santa Tereza",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santana",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santo Antônio",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Caetano",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Geraldo",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São João",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Jose",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Sebastião",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Sarandi",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Serraria",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Teresópolis",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Três Figueiras",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Tristeza",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Assunção",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Conceição",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Ipiranga",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Jardim",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila João Pessoa",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Nova",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila são João",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Alvorada",
+      "carteira_grupo_a": "Metro 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Viamão",
+      "carteira_grupo_a": "Metro 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio dos Ratos",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Barra do Ribeiro",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Butiá",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Charqueadas",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Eldorado do Su",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Guaíba",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Mariana Pimentel",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Minas do Leão",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pântano Grande",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "São Jerônimo",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Balneário Pinhal",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cidreira",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Mostardas",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Palmares do Sul",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Tavares",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Tramandaí",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Capivarí do Sul",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Caraa",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Itati",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Xangri-lá",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Imbe",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio do Sal",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Capão da Canoa",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Dom Pedro de Alcântara",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Mampituba",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Maquiné",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Morrinhos do Sul",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Osório",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Santo Antônio da Patrulha",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Terra de Areia",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Torres",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Três Cachoeiras",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Três Forquilhas",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Bagé",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Candiota",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Dom Pedrito",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Hulha Negra",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Lavras do Sul",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pedras Altas",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pinheiro Machado",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Amaral Ferrador",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arambaré",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Barão do Triunfo",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Camaquã",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cerro Grande do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Chuvisca",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cristal",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Dom Feliciano",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Encruzilhada do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "São Lourenço do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Sentinela do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Sertão Santana",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Tapes",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Turuçú",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pelotas",
+      "carteira_grupo_a": "Pelotas 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio do Padre",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio Grande",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Canguçú",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Capão do Leão",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cerrito",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Herval",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Jaguarão",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Morro Redondo",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pedro Osório",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Piratini",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Rio Grande",
+      "carteira_grupo_a": "Rio grande 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "São Jose",
+      "carteira_grupo_a": "Rio grande 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Chuí",
+      "carteira_grupo_a": "Rio grande 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Santa Vitória do Palmar",
+      "carteira_grupo_a": "Rio grande 2",
+      "carteira_ppm": "Metro PPM"
+    }
+  ],
+  "AL": [
+    {
+      "municipio": "Anadia",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Atalaia",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Barra de Santo Antônio",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Barra de São Miguel",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Boca da Mata",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Branquinha",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Cajueiro",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Campestre",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Capela",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Chã Preta",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Colônia Leopoldina",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Coqueiro Seco",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Flexeiras",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Ibateguara",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Jacuípe",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Japaratinga",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Joaquim Gomes",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Jundiá",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maceió",
+      "carteira_grupo_a": "GA MAC 1 (Demanda contratada até 100kW)",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maceió",
+      "carteira_grupo_a": "GA MAC 2 (Demanda contratada a partir de 101kW e até 749kW)",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Mar Vermelho",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maragogi",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Marechal Deodoro",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maribondo",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Matriz De Camaragibe",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Messias",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Murici",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Novo Lino",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Paripueira",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Passo De Camaragibe",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Pilar",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Pindoba",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Porto Calvo",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Porto De Pedras",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Rio Largo",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Roteiro",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Santa Luzia do Norte",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Santana Do Mundaú",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Jose Da Laje",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Luiz Do Quitunde",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Miguel dos Campos",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Miguel Dos Milagres",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Satuba",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Tanque D’arca",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "União Dos Palmares",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Viçosa",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Agua Branca",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Arapiraca",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Batalha",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Belém",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Belo Monte",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Cacimbinhas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Campo Alegre",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Campo Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Canapi",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Carneiros Delmiro Gouveia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Coite do Noia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Coruripe",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Craíbas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Dois Riachos",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Estrela de Alagoas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Feira Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Feliz Deserto",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Girau do Ponciano",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Igaci",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Igreja Nova",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Inhapi",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Jacaré Dos Homens",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Jaramataia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Jequiá da Praia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Junqueiro",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Lagoa da Canoa",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Limoeiro de Anadia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Major Izidoro",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Maravilha",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Mata Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Minador do Negrão",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Monteirópolis",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olho D’agua Das Flores",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olho D’água Do Casado",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olho D’Água Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olivença",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Ouro Branco",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Palestina",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Palmeira dos Índios",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Pão De Açúcar",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Pariconha",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Paulo Jacinto",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Penedo",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Piaçabuçu",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Piranhas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Poço Das Trincheiras",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Porto Real do Colégio",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Quebrangulo",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Santana Do Ipanema",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "São Brás",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "São José de Tapera",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "São Sebastião",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Senador Rui Palmeira",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Taquarana",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Teotônio Vilela",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Traipu",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    }
+  ],
+  "AP": [
+    {
+      "carteira": "PPM",
+      "observacao": "Poder Público Municipal"
+    },
+    {
+      "carteira": "GA AMAPA",
+      "observacao": "Todos Alta Tensão"
+    },
+    {
+      "carteira": "PPEF",
+      "observacao": "Poder Público Estadual e Federal"
+    },
+    {
+      "carteira": "REDE",
+      "observacao": "Geração Centralizada"
+    },
+    {
+      "carteira": "GDIS",
+      "observacao": "Geração Distribuída BT"
+    }
+  ],
+  "GO":[
+    {
+      "municipio": "ABADIANIA PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "ALEXANIA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "ANAPOLIS",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "BARRO ALTO PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "CAMPO LIMPO PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "COCALZINHO PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "CORUMBA PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "GOIANAPOLIS",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "GOIANESIA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "JARAGUA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "JESUPOLIS PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "OURO VERDE PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "PETROLINA PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "PIRENOPOLIS",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "SANTA RITA DO NOVO DESTINO PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "SANTA ROSA PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "SAO FRANCISCO PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "TEREZOPOLIS PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "VILA PROPICIO PA",
+      "carteira_grupo_a": "GA ANÁPOLIS",
+      "carteira_ppm": "PPM ANÁPOLIS"
+    },
+    {
+      "municipio": "AGUA FRIA PA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "ALTO PARAISO PA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "ALVORADA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "BURITINOPOLIS PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "CABECEIRAS PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "CAMPOS BELOS",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "CAVALCANTE PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "DAMIANOPOLIS PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "DIVINOPOLIS PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "FLORES PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "FORMOSA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "GUARANI PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "IACIARA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "MAMBAI PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "MONTE ALEGRE PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "NOVA ROMA PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "PLANALTINA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "POSSE",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "SAO DOMINGOS PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "SAO JOAO DA ALIANCA PA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "SIMOLANDIA PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "SITIO DABADIA PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "TEREZINA PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "VILA BOA PA",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    },
+    {
+      "municipio": "GOIANIA LESTE",
+      "carteira_grupo_a": "VER OBSERVAÇÃO",
+      "carteira_ppm": "PPM GOIÂNIA"
+    },
+    {
+      "municipio": "GOIANIA SUDOESTE",
+      "carteira_grupo_a": "VER OBSERVAÇÃO",
+      "carteira_ppm": "PPM GOIÂNIA"
+    },
+    {
+      "municipio": "GOIANIA SUL",
+      "carteira_grupo_a": "VER OBSERVAÇÃO",
+      "carteira_ppm": "PPM GOIÂNIA"
+    },
+    {
+      "municipio": "ADELANDIA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "AMERICANO PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "AMORINOPOLIS PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "ANICUNS",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "ARAGARCAS",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "ARAGUAPAZ PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "ARENOPOLIS PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "ARUANA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "AURILANDIA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "AVELINOPOLIS PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "BALIZA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "BOM JARDIM PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "BRITANIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "BURITI DE GOIAS PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "CACHOEIRA DE GOIAS PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "CAIAPONIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "CEZARINA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "GOIAS",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "CORREGO DO OURO PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "DIORAMA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "DOVERLANDIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "FAINA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "FAZENDA NOVA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "FIRMINOPOLIS",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "GUARAITA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "HEITORAI PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "INDIARA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "IPORA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "ISRAELANDIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "ITABERAI",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "ITAGUARI PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "ITAGUARU PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "ITAPIRAPUA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "ITAPURANGA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "IVOLANDIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "JANDAIA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "JAUPACI PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "JUSSARA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "MATRINCHA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "MOIPORA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "MONTES CLAROS PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "MORRO AGUDO PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "MOSSAMEDES PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "MOZARLANDIA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "NAZARIO PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "NOVO BRASIL PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "PALESTINA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "PALMEIRAS",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "PALMINOPOLIS PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "PARAUNA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "PIRANHAS",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "SANCLERLANDIA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "SANTA FE PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "SAO JOAO DA PARAUNA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "SAO LUIS MONTES BELOS",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "TAQUARAL PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "TURVANIA PA",
+      "carteira_grupo_a": "GA MONTES BELOS",
+      "carteira_ppm": "PPM MONTES BELOS"
+    },
+    {
+      "municipio": "AGUAS LINDAS",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "CIDADE OCIDENTAL",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "CRISTALINA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "LUZIANIA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "JARDIM DO INGA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "MIMOSO PA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "NOVO GAMA",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "PADRE BERNARDO",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "SANTO ANTONIO DO DESCOBERTO",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "VALPARAISO",
+      "carteira_grupo_a": "GA LUZIANIA",
+      "carteira_ppm": "PPM LUZIANIA"
+    },
+    {
+      "municipio": "ABADIA PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "APARECIDA DE GOIANIA",
+      "carteira_grupo_a": "METRO 1",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "ARACU PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "ARAGOIANIA PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "BELA VISTA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "BONFINOPOLIS PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "BRAZABRANTES PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "CALDAZINHA PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "CAMPESTRE PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "CATURAI PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "DAMOLANDIA PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "GAMELEIRA PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "GOIANIRA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "GUAPO",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "HIDROLANDIA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "INHUMAS",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "ITAUCU PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "LEOPOLDO DE BULHOES PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "NEROPOLIS",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "NOVA VENEZA PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "SANTA BARBARA PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "SANTO ANTONIO DE GOIAS PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "SAO MIGUEL DO PASSA QUATRO PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "SENADOR CANEDO",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "SILVANIA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "TRINDADE",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "VARJAO PA",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "VIANOPOLIS",
+      "carteira_grupo_a": "METRO 2",
+      "carteira_ppm": "PPM METRO"
+    },
+    {
+      "municipio": "AGUA LIMPA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "ALOANDIA PA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "ANHANGUERA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "BOM JESUS PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "BURITI ALEGRE PA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CACHOEIRA DOURADA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CALDAS NOVAS",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CAMPO ALEGRE PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CATALAO",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CORUMBAIBA PA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CRISTIANOPOLIS PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CROMINIA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "CUMARI PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "DAVINOPOLIS PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "EDEALINA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "EDEIA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "GOIANDIRA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "GOIATUBA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "IPAMERI",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "ITUMBIARA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "JOVIANIA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "MAIRIPOTABA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "MARZAGAO PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "MORRINHOS",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "NOVA AURORA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "ORIZONA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "OUVIDOR PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "PALMELO PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "PANAMA PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "PIRACANJUBA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "PIRES DO RIO",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "PONTALINA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "PROFESSOR JAMYL PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "RIO QUENTE PA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "SANTA CRUZ PA",
+      "carteira_grupo_a": "MORRINHOS 1",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "SANTO ANTONIO DO RIO VERDE",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "TRES RANCHOS PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "URUTAI PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "VICENTINOPOLIS PA",
+      "carteira_grupo_a": "MORRINHOS 2",
+      "carteira_ppm": "PPM MORRINHOS"
+    },
+    {
+      "municipio": "ACREUNA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "APARECIDA DO RIO DOCE PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "APORE PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "CACHOEIRA ALTA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "CACU PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "CASTELANDIA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "CHAPADAO DO CEU PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "GOUVELANDIA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "INACIOLANDIA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "ITAJA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "ITARUMA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "JATAI",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "LAGOA SANTA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "MAURILANDIA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "MINEIROS",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "MONTIVIDIU PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "PARANAIGUARA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "PEROLANDIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "PORTEIRAO PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "PORTELANDIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "QUIRINOPOLIS",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "RIO VERDE",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "SANTA HELENA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "SANTA RITA DO ARAGUAIA PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "SANTO ANTONIO DA BARRA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "SAO SIMAO PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "SERRANOPOLIS PA",
+      "carteira_grupo_a": "GA IPORA",
+      "carteira_ppm": "PPM IPORA"
+    },
+    {
+      "municipio": "TURVELANDIA PA",
+      "carteira_grupo_a": "RIO VERDE",
+      "carteira_ppm": "PPM RIO VERDE"
+    },
+    {
+      "municipio": "ALTO HORIZONTE PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "AMARALINA PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "BONOPOLIS PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "CAMPINACU PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "CAMPINORTE PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "CAMPOS VERDES PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "COLINAS DO SUL PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "CRIXAS",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "ESTRELA DO NORTE PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "FORMOSO PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "GUARINOS PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "HIDROLINA PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "ITAPACI",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "MARA ROSA PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "MINACU",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "MONTIVIDIU DO NORTE PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "MUNDO NOVO PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "MUTUNOPOLIS PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "NIQUELANDIA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "NOVA AMERICA PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "NOVA CRIXAS PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "NOVA IGUACU PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "NOVO PLANALTO PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "PILAR PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "PORANGATU",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "RUBIATABA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "SANTA TEREZA PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "SANTA TEREZINHA PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "SAO LUIZ DO NORTE PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "SAO MIGUEL DO ARAGUAIA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "TROMBAS PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "UIRAPURU PA",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "URUACU",
+      "carteira_grupo_a": "GA URUAÇU",
+      "carteira_ppm": "PPM URUAÇU"
+    },
+    {
+      "municipio": "MONTE ALEGRE DE GOIAS",
+      "carteira_grupo_a": "GA FORMOSA",
+      "carteira_ppm": "PPM FORMOSA"
+    }
+  ],
+  "MA": [
+    {
+      "municipio": "SÃO LUIS-ALEMANHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ALTO DO CALHAU",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANANANDIBA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANANANDIBA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANGELIM",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANIL",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANIL PLANALTO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANJO GUARDA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-APACO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-APEADOURO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ARACAGY",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-AREINHA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-AURORA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BACANGA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BARES",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BARRETO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BARROCA VELHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BEQUIMAO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BOM JESUS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BOM MILAGRE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BRISA MAR",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CAJUEIRO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CALHAU",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CAMBOA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CANTO FABRIL",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CAOLHO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CENTRO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CIDADE NOVA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CIDADE OPERARIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB ANIL I",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB ANIL III",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB ANIL IV",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAFUMA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAJAP",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAJOLY",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAMA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHASERMA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHATRAC II",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHATRAC III",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHATRAC IV",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CRUZEIRO DO ANIL",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-DIAMANTE",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-DISTRITO INDUSTRIAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-DIVINEIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ESTIVA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-FATIMA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-FILIPINHO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-FORQUILHA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-GLEBA B",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-IPASE",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ITAPERA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ITAQUI",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JAGUAREMA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JARACATI",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JARDIM RENASCENCA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD ELDORADO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD LISBOA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD PRIMAVERA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD RENASCENCA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD S CRISTOV II",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD S CRISTOVAO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JOÃO DE DEUS",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JOAO PAULO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JORDOA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JUCARA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MADRE DEUS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MAIOBINHA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MAJOR LUCENA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARACANA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARACUJA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARANHAO NOVO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARAVILHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MATA DE ITAPERA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MATINHA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MONTE CASTELO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-NOVA REPUBLICA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-OLHO DAGUA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-OUTEIRO DA CRUZ",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PAU DEITADO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PEDRINHAS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PONTA DAREIA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PONTA DO FAROL",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PONTA FAROL",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PORTINHO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PORTO GRANDE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ ATLANTICO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ SHALON",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ TIMBIRAS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ VITORIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PRAIA GRANDE",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-QUEBRA POTE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-QUINTAS CALHAU",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RECANTO DOS VINHAIS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RENASCENCA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RENASCENCA II",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RES GOV L ROCHA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RIO GRANDE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RIO GRANDE 1",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RURAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SALINA DO SACAVEM",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SANTA BARBARA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO BERNARDO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO CRISTOVAO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO FRANCISCO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO MARCOS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-STA CRUZ",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-STO ANTONIO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-TIBIRI",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-TIRIRICAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-TURU",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VICENTE FIALHO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VILA ISABEL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VINHAIS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL ARIRI I",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL B ESPERANCA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL EMBRATEL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL ESPERANCA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL FIALHO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL INDUSTRIAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL ITAMAR",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL IVAR SALDANHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL JANAINA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL MAURO FECURY",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL PALMEIRA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL PASSOS",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL RIOD",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL SARNEY",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL VITORIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ALTO ALEGRE DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "BACABAL",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "BERNARDO DO MEARIM",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "BOM LUGAR",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "CANTANHEDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "CONCEICAO DO LAGO ACU",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "COROATA",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "IGARAPE GRANDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "ITAPECURU MIRIM",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGO DA PEDRA",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGO DOS RODRIGUES",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGO VERDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGOA GRANDE DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LIMA CAMPOS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "MARAJA DO SENA",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PAULO RAMOS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "NINA RODRIGUES",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PEDREIRAS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PERITORO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PIRAPEMAS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PRESIDENTE VARGAS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "SAO LUIS GONZAGA DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "SAO MATEUS DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "TRIZIDELA DO VALE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "VARGEM GRANDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "POCAO DE PEDRAS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "BARRA DO CORDA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "CAPINZAL DO NORTE",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "DOM PEDRO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "ESPERANTINOPOLIS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "FERNANDO FALCAO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "FORTUNA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GONCALVES DIAS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GOV. EUGENIO BARROS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GOVERNADOR ARCHER",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GOVERNADOR LUIS ROCHA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GRACA ARANHA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "JENIPAPO DOS VIEIRAS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "JOSELANDIA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "PRESIDENTE DUTRA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SANTA FILOMENA DO MARANHAO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SANTO ANTONIO DOS LOPES",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO MARANHAO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SAO JOSE DOS BASILIOS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SÃO RAIMUNDO DO DOCA BEZERRA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SAO ROBERTO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SENADOR ALEXANDRE COSTA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "TUNTUM",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "LAGO DO JUNCO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "ANAJATUBA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "MATOES DO NORTE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "MIRANDA DO NORTE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ALTAMIRA DO MARANHAO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ALTO ALEGRE DO PINDARE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ARAGUANA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ARARI",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "BELA VISTA DO MARANHAO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "BOM JARDIM",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "BREJO DE AREIA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "IGARAPE DO MEIO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "MONCAO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "OLHO DAGUA DAS CUNHAS",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "PINDARE MIRIM",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "PIO XII",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SANTA INES",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SANTA LUZIA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SAO JOAO DO CARU",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SATUBINHA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "TUFILANDIA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "VITORIA DO MEARIM",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "VITORINO FREIRE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ZE DOCA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "GOVERNADOR NEWTON BELLO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "AFONSO CUNHA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "ANAPURUS",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "BELAGUA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "BREJO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "BURITI",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "CHAPADINHA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "TIMBIRAS",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "CODO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "COELHO NETO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "DUQUE BACELAR",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "MATA ROMA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "MILAGRES DO MARANHAO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "SANTA QUITERIA DO MARANHAO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "SAO BENEDITO DO RIO PRETO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "URBANO SANTOS",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "ALDEIAS ALTAS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "BARAO DE GRAJAU",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "BENEDITO LEITE",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "BURITI BRAVO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "CAXIAS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "COLINAS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "JATOBA",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "LAGOA DO MATO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "MATOES",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "MIRADOR",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "NOVA IORQUE",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PARAIBANO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PARNARAMA",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PASSAGEM FRANCA",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PASTOS BONS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO AZEITAO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO MARANHAO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO JOAO DO SOTER",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO JOAO DOS PATOS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SUCUPIRA DO NORTE",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SUCUPIRA DO RIACHAO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "TIMON",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "AMAPA DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "APICUM-ACU",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "BACURI",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "BOA VISTA DO GURUPI",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CANDIDO MENDES",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CARUTAPERA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CENTRO DO GUILHERME",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CURURUPU",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CENTRO NOVO DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "GODOFREDO VIANA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "GOVERNADOR NUNES FREIRE",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "JUNCO DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "LUIS DOMINGUES",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "MARACACUME",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "MARANHAOZINHO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "NOVA OLINDA DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "PRESIDENTE MEDICI",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "SANTA HELENA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "SANTA LUZIA DO PARUA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "SERRANO DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "TURIACU",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "TURILANDIA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "ALCANTARA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "BACURITUBA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "BEQUIMAO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CAJAPIO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CAJARI",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CEDRAL",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CENTRAL DO MARANHAO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PORTO RICO DO MARANHAO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "GUIMARAES",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "MATINHA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "MIRINZAL",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "OLINDA NOVA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PALMEIRANDIA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PEDRO DO ROSARIO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PENALVA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PERI MIRIM",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PINHEIRO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PRESIDENTE SARNEY",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "SAO BENTO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "SAO JOAO BATISTA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "SAO VICENTE FERRER",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "VIANA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "AGUA DOCE DO MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ARAIOSES",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "MAGALHAES DE ALMEIDA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PAULINO NEVES",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SANTANA DO MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SAO BERNARDO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "TUTOIA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "AXIXA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "BACABEIRA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "BARREIRINHAS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "CACHOEIRA GRANDE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "HUMBERTO DE CAMPOS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ICATU",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PACO DO LUMIAR",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "MORROS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PRESIDENTE JUSCELINO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PRIMEIRA CRUZ",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ROSARIO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SANTA RITA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SANTO AMARO DO MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ALTO PARNAIBA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "BALSAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "CAROLINA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "FEIRA NOVA DO MARANHAO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "FORMOSA DA SERRA NEGRA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "FORTALEZA DOS NOGUEIRAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "GRAJAU",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "LORETO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "NOVA COLINAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "RIACHAO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAMBAIBA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAO FELIX DE BALSAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAO PEDRO DOS CRENTES",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAO RAIMUNDO DAS MANGABEIRAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "TASSO FRAGOSO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "ACAILANDIA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "AMARANTE DO MARANHAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ARAME",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "BOM JESUS DA SELVA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "BURITICUPU",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "BURITIRANA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "CAMPESTRE DO MARANHAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "CIDELANDIA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "DAVINOPOLIS",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ESTREITO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "GOVERNADOR EDSON LOBAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "IMPERATRIZ",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ITAIPAVA DO GRAJAU",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ITINGA DO MARANHAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "JOAO LISBOA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "LAJEADO NOVO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "MONTES ALTOS",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "PORTO FRANCO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "RIBAMAR FIQUENE",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO BREJAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SAO JOAO DO PARAISO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SAO PEDRO DA AGUA BRANCA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SENADOR LA ROCQUE",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SITIO NOVO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "VILA NOVA DOS MARTIRIOS",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SÃO JOSE DE RIBAMAR",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "RAPOSA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    }
+  ],
+  "PA": [
+    {
+      "municipio": "ANANINDEUA-BR 316",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ANANINDEUA-Entroncamento",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ANANINDEUA-Marambaia",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ANANINDEUA-reduto",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "BELEM-TAPANÃ",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "BELEM-Val de Cães",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "CURRALINHO",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "MUANA",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "PONTA DE PEDRAS",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "SAO SEBASTIAO DA BOA VISTA",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ABAETETUBA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "ACARA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "BELEM-São Braz",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "BELEM-Souza",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "CAMETA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "IGARAPE-MIRI",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "LIMOEIRO DO AJURU",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "MOCAJUBA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "MOJU",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "TAILANDIA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "ALENQUER",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "CURUA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "FARO",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "JURUTI",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "MONTE ALEGRE",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "OBIDOS",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "ORIXIMINA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "PRAINHA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "TERRA SANTA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "AGUA AZUL DO NORTE",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "CANAA DOS CARAJAS",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "OURILANDIA DO NORTE",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "SAO FELIX DO XINGU",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "SAPUCAIA",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "TUCUMA",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "XINGUARA",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "BELEM-TERRA FIRME",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "BONITO",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "BRAGANCA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "CACHOEIRA DO PIRIA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "CAPANEMA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "CAPITAO POCO",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "GARRAFAO DO NORTE",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "NOVA ESPERANCA DO PIRIA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "NOVA TIMBOTEUA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "OUREM",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "PEIXE-BOI",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "PRIMAVERA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "QUATIPURU",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SALINOPOLIS",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SANTA LUZIA DO PARA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SANTAREM NOVO",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SAO JOAO DE PIRABAS",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "TRACUATEUA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "VISEU",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "VIGIA DE NAZARE",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "CASTANHAL",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "COLARES",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "CURUCA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "IGARAPE-ACU",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "INHANGAPI",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "MAGALHAES BARATA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "MARACANA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "MARAPANIM",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SANTA MARIA DO PARA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SANTO ANTONIO DO TAUA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO CAETANO DE ODIVELAS",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO CAPIM",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO PARA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO JOAO DA PONTA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO MIGUEL DO GUAMA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "TERRA ALTA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "ALMEIRIM",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "ALTAMIRA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "BELEM-Umarizal",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "BRASIL NOVO",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "GURUPA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "MEDICILANDIA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "PACAJÁ",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "PLACAS",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "PORTO DE MOZ",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "SENADOR JOSE PORFIRIO",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "URUARA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "VITORIA DO XINGU",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "BELEM-Telegrafo",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "ITAITUBA",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "JACAREACANGA",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "NOVO PROGRESSO",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "RUROPOLIS",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "TRAIRAO",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "ANANINDEUA-Distrito Ananindeua",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "BENEVIDES",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "CACHOEIRA DO ARARI",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "MARITUBA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "MOSQUEIRO",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SALVATERRA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SANTA BARBARA DO PARA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SANTA CRUZ DO ARARI",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SANTA IZABEL DO PARA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SOURE",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "AFUA",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "ANAJAS",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Batista Campos",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Bengui",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cabanagem",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Campina",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Canudos",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Castanheira",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Centro",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-CHAPEU VIRADO",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cidade Velha",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Condor",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Coqueiro",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cotijuba",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cremação",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Curio Utinga",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Fatima",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Guama",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Guanabara",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Jurunas",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Mangueirao",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Maracacuera",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Marambaia",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Marco",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Nazaré",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Outeiro",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-PARAISO",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Parque Verde",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Pedreira",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Reduto",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Sacramenta",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BREVES",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "CHAVES",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "MELGACO",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "MOSQUEIRO-CARANANDUBA",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "OEIRAS DO PARA",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "PORTEL",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "CURIONOPOLIS",
+      "carteira_grupo_a": "HIB_PEB",
+      "carteira_ppm": "HIB_PEB"
+    },
+    {
+      "municipio": "ELDORADO DO CARAJAS",
+      "carteira_grupo_a": "HIB_PEB",
+      "carteira_ppm": "HIB_PEB"
+    },
+    {
+      "municipio": "PARAUAPEBAS",
+      "carteira_grupo_a": "HIB_PEB",
+      "carteira_ppm": "HIB_PEB"
+    },
+    {
+      "municipio": "BELEM-Tenone",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "BUJARU",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "CONCORDIA DO PARA",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "IPIXUNA DO PARA",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "IRITUIA",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "MAE DO RIO",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "PARAGOMINAS",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "TOME-ACU",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "ULIANOPOLIS",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "BELEM-SAO FRANCISCO",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "CONCEICAO DO ARAGUAIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "CUMARU DO NORTE",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "FLORESTA DO ARAGUAIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "PAU DARCO",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "REDENCAO",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "RIO MARIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "SANTA MARIA DAS BARREIRAS",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "SANTANA DO ARAGUAIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "BELTERRA",
+      "carteira_grupo_a": "HIB_SAN",
+      "carteira_ppm": "HIB_SAN"
+    },
+    {
+      "municipio": "MOJUI DOS CAMPOS",
+      "carteira_grupo_a": "HIB_SAN",
+      "carteira_ppm": "HIB_SAN"
+    },
+    {
+      "municipio": "SANTAREM",
+      "carteira_grupo_a": "HIB_SAN",
+      "carteira_ppm": "HIB_SAN"
+    },
+    {
+      "municipio": "BREU BRANCO",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "GOIANESIA DO PARA",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "NOVO REPARTIMENTO",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "TUCURUI",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "ABEL FIGUEIREDO",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "BOM JESUS DO TOCANTINS",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "BREJO GRANDE DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "DOM ELISEU",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "ITUPIRANGA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "JACUNDA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "MARABA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "NOVA IPIXUNA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "PALESTINA DO PARA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "RONDON DO PARA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "SAO GERALDO DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "SAO JOAO DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "PICARRA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "**"
+    },
+    {
+      "municipio": "BELEM-Icoaracy",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "**"
+    },
+    {
+      "municipio": "BELEM-Miramar",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "**"
+    }
+  ],
+  "PI": [
+    {
+      "municipio": "ACAUA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ALAGOINHA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ALEGRETE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ALVORADA DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "ANISIO DE ABREU",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "ANTONIO ALMEIDA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "AROAZES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "AROEIRAS DO ITAIM",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ARRAIAL",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "AVELINO LOPES",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "BAIXA GRANDE DO RIBEIRO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BARRA D ALCANTARA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BARREIRAS DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "BELA VISTA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BELEM DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "BERTOLINIA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BETANIA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "BOCAINA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "BOM JESUS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "BONFIM DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "BREJO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CAJAZEIRAS DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CALDEIRAO GRANDE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "CAMPINAS DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CAMPO ALEGRE DO FIDALGO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CAMPO GRANDE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "CANAVIEIRA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CANTO DO BURITI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CAPITAO GERVASIO OLIVEIRA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CARACOL",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CARIDADE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "COLONIA DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "COLONIA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CONCEICAO DO CANINDE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CORONEL JOSE DIAS",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CORRENTE",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CRISTALANDIA DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CRISTINO CASTRO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CURIMATA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CURRAIS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CURRAL NOVO DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "DIRCEU ARCOVERDE",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "DOM EXPEDITO LOPES",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "DOM INOCENCIO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "ELESBAO VELOSO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "ELIZEU MARTINS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "FARTURA DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "FLORES DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FLORESTA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FLORIANO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FRANCINOPOLIS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FRANCISCO AYRES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FRANCISCO MACEDO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "FRANCISCO SANTOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "FRONTEIRAS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "GEMINIANO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "CA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "GUADALUPE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "GUARIBAS",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "INHUMA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "IPIRANGA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "ISAIAS COELHO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "ITAINOPOLIS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ITAUEIRA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "JACOBINA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "JAICOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "JERUMENHA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "JOAO COSTA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "JULIO BORGES",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "JUREMA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "LAGOA DO BARRO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "LAGOA DO SITIO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "LANDRI SALES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "MANOEL EMIDIO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "MARCOLANDIA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "MARCOS PARENTE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "MASSAPE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "MONSENHOR HIPOLITO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "MONTE ALEGRE DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "MORRO CABECA NO TEMPO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "NAZARE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "NOVA SANTA RITA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "NOVO ORIENTE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "OEIRAS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PADRE MARCOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PAES LANDIM",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PAJEU DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "PALMEIRA DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "PAQUETA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PARNAGUA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "PATOS DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PAULISTANA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PAVUSSU",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PEDRO LAURENTINO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "PICOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PIMENTEIRAS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PIO IX",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PORTO ALEGRE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "QUEIMADA NOVA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "REDENCAO DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "RIACHO FRIO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "RIBEIRA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "RIBEIRO GONCALVES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "RIO GRANDE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SANTA CRUZ DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SANTA CRUZ DOS MILAGRES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SANTA FILOMENA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SANTA LUZ",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SANTA ROSA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SANTANA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SANTO ANTONIO DE LISBOA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SANTO INACIO DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO BRAZ DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SAO FELIX DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO FRANCISCO DE ASSIS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO GONCALO DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SAO JOAO DA CANABRAVA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO JOAO DA VARJOTA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO JOAO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SAO JOSE DO PEIXE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO JOSE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO JULIAO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO LOURENCO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SAO LUIS DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO MIGUEL DA BAIXA GRANDE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO MIGUEL DO FIDALGO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO RAIMUNDO NONATO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SEBASTIAO BARROS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SEBASTIAO LEAL",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SIMOES",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SIMPLICIO MENDES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SOCORRO DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SUSSUAPARA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "TAMBORIL DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "TANQUE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "URUCUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "VALENCA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "VARZEA BRANCA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "VARZEA GRANDE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "VERA MENDES",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "VILA NOVA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "WALL FERRAZ",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "AGRICOLANDIA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "AGUA BRANCA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "TERESINA",
+      "carteira_regional": "GA_METR100 (localização geográfica ACIMA do Teresina Shopping)",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ALTO LONGA",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "AMARANTE",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ANGICAL DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ALTOS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ASSUNCAO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BARRO DURO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BENEDITINOS",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BARRAS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BOA HORA",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BOQUEIRAO DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BURITI DOS MONTES",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CABECEIRAS DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CAMPO MAIOR",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CASTELO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CURRALINHOS",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "DEMERVAL LOBAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "HUGO NAPOLEAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JARDIM DO MULATO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "COIVARAS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JATOBA DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JOSE DE FREITAS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JUAZEIRO DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "LAGOA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "LAGOINHA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "LAGOA ALEGRE",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "MIGUEL LEAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "MONSENHOR GIL",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "NAZARIA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "MIGUEL ALVES",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "NOSSA SENHORA DE NAZARE",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "OLHO D'AGUA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PALMEIRAIS",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PASSAGEM FRANCA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PAU D ARCO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PRATA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "REGENERACAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SANTO ANTONIO DOS MILAGRES",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO GONCALO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO JOAO DA SERRA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "NOVO SANTO ANTONIO",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO PEDRO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO MIGUEL DO TAPUIO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SIGEFREDO PACHECO",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "TERESINA",
+      "carteira_regional": "GA_METR200  (localização geográfica ABAIXO do Teresina Shopping)",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PARNAIBA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BATALHA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BOM PRINCIPIO DO PIAUI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BRASILEIRA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BURITI DOS LOPES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAJUEIRO DA PRAIA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAMPO LARGO DO PIAUI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAPITAO DE CAMPOS",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CARAUBAS DO PIAUI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAXINGO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "COCAL",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "COCAL DE TELHA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "COCAL DOS ALVES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "DOMINGOS MOURAO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "ESPERANTINA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "ILHA GRANDE",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "JOAQUIM PIRES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "JOCA MARQUES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "LAGOA DE SAO FRANCISCO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "LUIS CORREIA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "LUZILANDIA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MADEIRO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MATIAS OLIMPIO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MILTON BRANDAO",
+      "carteira_regional": "GA_PARNAIBA",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MORRO DO CHAPEU DO PIAUI",
+      "carteira_regional": "GA_PARNAIBA",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MURICI DOS PORTELAS",
+      "carteira_regional": "GA_PARNAIBA",
+      "carteir a_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "NOSSA SENHORA DOS REMEDIOS",
+      "carteira_regional": "GA_PARNAIBA",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PEDRO II",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PIRACURUCA",
+      "carteira_regional": "GA_PARNAIBA",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PIRIPIRI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PORTO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "SAO JOAO DA FRONTEIRA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "SAO JOAO DO ARRAIAL",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "SAO JOSE DO DIVINO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "UNIAO",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "GILBUES",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "RS": [
+    {
+      "municipio_bairro": "Porto Alegre-Aberta dos Morros",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Agronomia",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Anchieta",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Arquipélago",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Auxiliadora",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Azenha",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Bela Vista",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Belém Novo",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Belém Velho",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Boa Vista",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Bom Fim",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Bom Jesus",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Camaquã",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Campo Novo",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cascata",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cavalhada",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cel Aparicio Borges",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Centro",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Chácara das Pedras",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Chapéu do Sol",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cidade Baixa",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Osório 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Coronel Aparício Borges",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Costa e Silva",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cristal",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Cristo Redentor",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Espírito Santo",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Farrapos",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Farroupilha",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Floresta",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Glória",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Guarujá",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Higienópolis",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Hipica",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Hípica",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Humaitá",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Osório 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Independência",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Ipanema",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Botânico",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Carvalho",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim do Salso",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Dona Leopoldina",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Floresta",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Bagé"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Itu",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Itu-Sabará",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Lindóia",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim Sabará",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Jardim São Pedro",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Lageado",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Lami",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Lomba do Pinheiro",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Marcílio Dias",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Mário Quintana",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Medianeira",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Menino Deus",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Moinhos de Vento",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Mont'Serrat",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Camaquã"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Morro Santana",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Navegantes",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Nonoai",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Partenon",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Passo D'Areia",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Passo das Pedras",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Pedra Redonda",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Petrópolis",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Ponta Grossa",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Praia de Belas",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Protásio Alves",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Pelotas 3"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Restinga",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Rio grande 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Rio Branco",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Rio grande 1"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Rubem Berta",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Rio grande 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santa Cecília",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Rio grande 2"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santa Maria Goretti",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santa Tereza",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santana",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Santo Antônio",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Caetano",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Geraldo",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São João",
+      "carteira_grupo_a": "Porto Alegre 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Jose",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-São Sebastião",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Sarandi",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Serraria",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Teresópolis",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Três Figueiras",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Tristeza",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Assunção",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Conceição",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Ipiranga",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Jardim",
+      "carteira_grupo_a": "Porto Alegre 3",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila João Pessoa",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila Nova",
+      "carteira_grupo_a": "Porto Alegre 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Porto Alegre-Vila são João",
+      "carteira_grupo_a": "Porto Alegre 4",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Alvorada",
+      "carteira_grupo_a": "Metro 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Viamão",
+      "carteira_grupo_a": "Metro 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio dos Ratos",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Barra do Ribeiro",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Butiá",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Charqueadas",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Eldorado do Su",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Guaíba",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Mariana Pimentel",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Minas do Leão",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pântano Grande",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "São Jerônimo",
+      "carteira_grupo_a": "Metro 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Balneário Pinhal",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cidreira",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Mostardas",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Palmares do Sul",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Tavares",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Tramandaí",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Capivarí do Sul",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Caraa",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Itati",
+      "carteira_grupo_a": "Osório 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Xangri-lá",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Imbe",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio do Sal",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Capão da Canoa",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Dom Pedro de Alcântara",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Mampituba",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Maquiné",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Morrinhos do Sul",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Osório",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Santo Antônio da Patrulha",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Terra de Areia",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Torres",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Três Cachoeiras",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Três Forquilhas",
+      "carteira_grupo_a": "Osório 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Bagé",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Candiota",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Dom Pedrito",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Hulha Negra",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Lavras do Sul",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pedras Altas",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pinheiro Machado",
+      "carteira_grupo_a": "Bagé",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Amaral Ferrador",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arambaré",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Barão do Triunfo",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Camaquã",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cerro Grande do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Chuvisca",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cristal",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Dom Feliciano",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Encruzilhada do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "São Lourenço do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Sentinela do Sul",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Sertão Santana",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Tapes",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Turuçú",
+      "carteira_grupo_a": "Camaquã",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pelotas",
+      "carteira_grupo_a": "Pelotas 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio do Padre",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Arroio Grande",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Canguçú",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Capão do Leão",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Cerrito",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Herval",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Jaguarão",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Morro Redondo",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Pedro Osório",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Piratini",
+      "carteira_grupo_a": "Pelotas 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Rio Grande",
+      "carteira_grupo_a": "Rio grande 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "São Jose",
+      "carteira_grupo_a": "Rio grande 1",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Chuí",
+      "carteira_grupo_a": "Rio grande 2",
+      "carteira_ppm": "Metro PPM"
+    },
+    {
+      "municipio_bairro": "Santa Vitória do Palmar",
+      "carteira_grupo_a": "Rio grande 2",
+      "carteira_ppm": "Metro PPM"
+    }
+  ]
+}

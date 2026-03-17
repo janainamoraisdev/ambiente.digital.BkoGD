@@ -1,0 +1,950 @@
+{
+ 
+  "PA": [
+    {
+      "municipio": "ANANINDEUA-BR 316",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ANANINDEUA-Entroncamento",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ANANINDEUA-Marambaia",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ANANINDEUA-reduto",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "BELEM-TAPANÃ",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "BELEM-Val de Cães",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "CURRALINHO",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "MUANA",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "PONTA DE PEDRAS",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "SAO SEBASTIAO DA BOA VISTA",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB ANA"
+    },
+    {
+      "municipio": "ABAETETUBA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "ACARA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "BELEM-São Braz",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "BELEM-Souza",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "CAMETA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "IGARAPE-MIRI",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "LIMOEIRO DO AJURU",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "MOCAJUBA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "MOJU",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "TAILANDIA",
+      "carteira_grupo_a": "HIB_ABA",
+      "carteira_ppm": "HIB_ABA"
+    },
+    {
+      "municipio": "ALENQUER",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "CURUA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "FARO",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "JURUTI",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "MONTE ALEGRE",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "OBIDOS",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "ORIXIMINA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "PRAINHA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "TERRA SANTA",
+      "carteira_grupo_a": "HIB_ALE",
+      "carteira_ppm": "HIB_ALE"
+    },
+    {
+      "municipio": "AGUA AZUL DO NORTE",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "CANAA DOS CARAJAS",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "OURILANDIA DO NORTE",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "SAO FELIX DO XINGU",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "SAPUCAIA",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "TUCUMA",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "XINGUARA",
+      "carteira_grupo_a": "HIB_CAN",
+      "carteira_ppm": "HIB_CAN"
+    },
+    {
+      "municipio": "BELEM-TERRA FIRME",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "BONITO",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "BRAGANCA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "CACHOEIRA DO PIRIA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "CAPANEMA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "CAPITAO POCO",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "GARRAFAO DO NORTE",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "NOVA ESPERANCA DO PIRIA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "NOVA TIMBOTEUA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "OUREM",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "PEIXE-BOI",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "PRIMAVERA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "QUATIPURU",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SALINOPOLIS",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SANTA LUZIA DO PARA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SANTAREM NOVO",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "SAO JOAO DE PIRABAS",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "TRACUATEUA",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "VISEU",
+      "carteira_grupo_a": "HIB_CAP",
+      "carteira_ppm": "HIB_CAP"
+    },
+    {
+      "municipio": "VIGIA DE NAZARE",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "CASTANHAL",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "COLARES",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "CURUCA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "IGARAPE-ACU",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "INHANGAPI",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "MAGALHAES BARATA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "MARACANA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "MARAPANIM",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SANTA MARIA DO PARA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SANTO ANTONIO DO TAUA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO CAETANO DE ODIVELAS",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO CAPIM",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO PARA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO JOAO DA PONTA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "SAO MIGUEL DO GUAMA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "TERRA ALTA",
+      "carteira_grupo_a": "HIB_CAS",
+      "carteira_ppm": "HIB_CAS"
+    },
+    {
+      "municipio": "ALMEIRIM",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "ALTAMIRA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "BELEM-Umarizal",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "BRASIL NOVO",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "GURUPA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "MEDICILANDIA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "PACAJÁ",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "PLACAS",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "PORTO DE MOZ",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "SENADOR JOSE PORFIRIO",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "URUARA",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "VITORIA DO XINGU",
+      "carteira_grupo_a": "HIB_CO",
+      "carteira_ppm": "HIB_CO"
+    },
+    {
+      "municipio": "BELEM-Telegrafo",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "ITAITUBA",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "JACAREACANGA",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "NOVO PROGRESSO",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "RUROPOLIS",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "TRAIRAO",
+      "carteira_grupo_a": "HIB_ITA",
+      "carteira_ppm": "HIB_ITA"
+    },
+    {
+      "municipio": "ANANINDEUA-Distrito Ananindeua",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "BENEVIDES",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "CACHOEIRA DO ARARI",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "MARITUBA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "MOSQUEIRO",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SALVATERRA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SANTA BARBARA DO PARA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SANTA CRUZ DO ARARI",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SANTA IZABEL DO PARA",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "SOURE",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "HIB_MET"
+    },
+    {
+      "municipio": "AFUA",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "ANAJAS",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Batista Campos",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Bengui",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cabanagem",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Campina",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Canudos",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Castanheira",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Centro",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-CHAPEU VIRADO",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cidade Velha",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Condor",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Coqueiro",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cotijuba",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Cremação",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Curio Utinga",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Fatima",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Guama",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Guanabara",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Jurunas",
+      "carteira_grupo_a": "HIB ANA",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Mangueirao",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Maracacuera",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Marambaia",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Marco",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Nazaré",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Outeiro",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-PARAISO",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Parque Verde",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Pedreira",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Reduto",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BELEM-Sacramenta",
+      "carteira_grupo_a": "GA_BEN",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "BREVES",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "CHAVES",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "MELGACO",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "MOSQUEIRO-CARANANDUBA",
+      "carteira_grupo_a": "GA_BCE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "OEIRAS DO PARA",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "PORTEL",
+      "carteira_grupo_a": "HIB_NORTE",
+      "carteira_ppm": "HIB_NORTE"
+    },
+    {
+      "municipio": "CURIONOPOLIS",
+      "carteira_grupo_a": "HIB_PEB",
+      "carteira_ppm": "HIB_PEB"
+    },
+    {
+      "municipio": "ELDORADO DO CARAJAS",
+      "carteira_grupo_a": "HIB_PEB",
+      "carteira_ppm": "HIB_PEB"
+    },
+    {
+      "municipio": "PARAUAPEBAS",
+      "carteira_grupo_a": "HIB_PEB",
+      "carteira_ppm": "HIB_PEB"
+    },
+    {
+      "municipio": "BELEM-Tenone",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "BUJARU",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "CONCORDIA DO PARA",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "IPIXUNA DO PARA",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "IRITUIA",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "MAE DO RIO",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "PARAGOMINAS",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "TOME-ACU",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "ULIANOPOLIS",
+      "carteira_grupo_a": "HIB_PGM",
+      "carteira_ppm": "HIB_PGM"
+    },
+    {
+      "municipio": "BELEM-SAO FRANCISCO",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "CONCEICAO DO ARAGUAIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "CUMARU DO NORTE",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "FLORESTA DO ARAGUAIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "PAU DARCO",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "REDENCAO",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "RIO MARIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "SANTA MARIA DAS BARREIRAS",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "SANTANA DO ARAGUAIA",
+      "carteira_grupo_a": "HIB_RED",
+      "carteira_ppm": "HIB_RED"
+    },
+    {
+      "municipio": "BELTERRA",
+      "carteira_grupo_a": "HIB_SAN",
+      "carteira_ppm": "HIB_SAN"
+    },
+    {
+      "municipio": "MOJUI DOS CAMPOS",
+      "carteira_grupo_a": "HIB_SAN",
+      "carteira_ppm": "HIB_SAN"
+    },
+    {
+      "municipio": "SANTAREM",
+      "carteira_grupo_a": "HIB_SAN",
+      "carteira_ppm": "HIB_SAN"
+    },
+    {
+      "municipio": "BREU BRANCO",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "GOIANESIA DO PARA",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "NOVO REPARTIMENTO",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "TUCURUI",
+      "carteira_grupo_a": "HIB_TUC",
+      "carteira_ppm": "HIB_TUC"
+    },
+    {
+      "municipio": "ABEL FIGUEIREDO",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "BOM JESUS DO TOCANTINS",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "BREJO GRANDE DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "DOM ELISEU",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "ITUPIRANGA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "JACUNDA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "MARABA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "NOVA IPIXUNA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "PALESTINA DO PARA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "RONDON DO PARA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "SAO GERALDO DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "SAO JOAO DO ARAGUAIA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "PICARRA",
+      "carteira_grupo_a": "GA_MRB",
+      "carteira_ppm": "PPM_MRB"
+    },
+    {
+      "municipio": "BELEM",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "**"
+    },
+    {
+      "municipio": "BELEM-Icoaracy",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "**"
+    },
+    {
+      "municipio": "BELEM-Miramar",
+      "carteira_grupo_a": "HIB_MET",
+      "carteira_ppm": "**"
+    }
+  ]
+}

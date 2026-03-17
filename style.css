@@ -1,0 +1,671 @@
+/* ============================================================
+   RESET
+   ============================================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ============================================================
+   BASE
+   ============================================================ */
+body {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: #000d2b;
+}
+
+/* ============================================================
+   MENU PRINCIPAL
+   ============================================================ */
+nav.menu-principal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #000d2b;
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 30px;
+  z-index: 999;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
+}
+
+nav.menu-principal a {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+nav.menu-principal a:hover {
+  color: white;
+}
+
+/* Itens do menu */
+.menu-item {
+  position: relative;
+}
+
+.menu-principal a {
+  display: block;
+  padding: 15px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.menu-principal a:hover {
+  background-color: #001846;
+}
+
+/* Dropdown */
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #001439;
+  min-width: 180px;
+  flex-direction: column;
+}
+
+.menu-item:hover .dropdown {
+  display: block;
+}
+
+.dropdown a {
+  padding: 10px;
+}
+
+/* Imagens no menu */
+.menu-principal img {
+  height: 10em;
+  width: auto;
+}
+
+/* ============================================================
+   BUSCA
+   ============================================================ */
+.busca-sistemas {
+  position: relative;
+  width: 300px;
+}
+
+#buscarSistema {
+  width: 105%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+
+#resultadosBusca {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  max-height: 300px;
+  overflow-y: auto;
+  display: none;
+  z-index: 9999;
+}
+
+.resultado-item {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+  font-size: 14px;
+}
+
+.resultado-item:hover {
+  background: #f1f5f9;
+}
+
+/* ============================================================
+   CABEÇALHO (head como bloco visual)
+   ============================================================ */
+head {
+  display: block;
+  unicode-bidi: isolate;
+  background: linear-gradient(90deg, #00076b, #000e69);
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 1, 3, 0.5);
+}
+
+/* ============================================================
+   CONTAINER PRINCIPAL
+   ============================================================ */
+main.container {
+  max-width: 1350px;
+  margin: 180px auto;
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* Logo / título */
+.logo-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 5px solid #e5e7eb;
+  padding-bottom: 1px;
+  margin-bottom: 25px;
+}
+
+.logo {
+  font-size: 38px;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+/* ============================================================
+   MINI DASHBOARD (cards de indicadores)
+   ============================================================ */
+.dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 24px;
+  margin: 40px 0;
+}
+
+.card-indicador {
+  background: linear-gradient(135deg, #000f33 0%, #003377 100%);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 10px 24px rgba(0, 35, 90, 0.25),
+              inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 0, 0, 0.07);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card-indicador::before {
+  content: '';
+  position: absolute;
+  top: -30px;
+  right: -30px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: rgba(59, 130, 246, 0.15);
+}
+
+.card-indicador::after {
+  content: '';
+  position: absolute;
+  bottom: -20px;
+  left: -20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba(44, 83, 255, 0.1);
+}
+
+.card-indicador:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 16px 40px rgba(0, 35, 90, 0.4);
+}
+
+.card-indicador h3 {
+  font-size: 12px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.card-indicador p {
+  font-size: 44px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1;
+  background: linear-gradient(135deg, #7fb8ff, #7fb8ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============================================================
+   GRID DE PAINÉIS
+   ============================================================ */
+.grid-paineis {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "metas     top10"
+    "destaques campanha";
+  gap: 20px;
+  padding: 20px;
+}
+
+.panel-metas     { grid-area: metas; }
+.panel-top10     { grid-area: top10; }
+.panel-destaques { grid-area: destaques; }
+.panel-campanha  { grid-area: campanha; }
+
+/* Card base */
+.panel {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+  border: 1px solid #000a67;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.panel-metas {
+  background: #ffffff;
+  padding: 9px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+  border: 1px solid #000a67;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Borda superior colorida */
+.panel::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #00027a, #1e36a2, #60a5fa);
+  border-radius: 16px 16px 0 0;
+}
+
+.panel:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(0, 35, 90, 0.12);
+  border-color: #87afff;
+}
+
+.panel h2 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #000a67;
+  letter-spacing: -0.01em;
+  text-align: center;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #000a67;
+}
+
+/* Espaçamento dos painéis específicos */
+.panel-destaques {
+  padding: 28px 28px;
+}
+
+.panel-campanha {
+  display: relative;
+  flex-direction:column;
+  padding: 30px;
+}
+
+.panel-campanha img {
+  width: 100% !important;
+  max-width: 100%;
+  height: 100%;
+  flex: 1;
+  object-fit: contain;
+  border-radius: 10px;
+  margin-top: 12px !important;
+  display: relative;
+}
+
+/* ============================================================
+   TABELA — TOP 10
+   ============================================================ */
+.tabela-prod {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 17px;
+}
+
+.tabela-prod th {
+  background: linear-gradient(135deg, #000c2d, #001a43);
+  color: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.tabela-prod th:first-child { border-radius: 10px 0 0 10px; }
+.tabela-prod th:last-child  { border-radius: 0 10px 10px 0; }
+
+.tabela-prod td {
+  padding: 5px 8px;
+  border-bottom: 3px solid #000c2d;
+  color: #000c2d;
+  text-align: center;
+}
+
+.tabela-prod tr:last-child td { border-bottom: none; }
+
+.tabela-prod tr:hover td {
+  background: #e6ebff;
+  color: #00235a;
+}
+
+/* Pódio top 3 */
+.tabela-prod tbody tr:nth-child(1) td:first-child { color: hsl(38, 100%, 50%); font-weight: 700; }
+.tabela-prod tbody tr:nth-child(2) td:first-child { color: #8291a8;            font-weight: 700; }
+.tabela-prod tbody tr:nth-child(3) td:first-child { color: #c0743a;            font-weight: 700; }
+
+/* ============================================================
+   TABELA — METAS
+   ============================================================ */
+.tabela-prod2 {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.tabela-prod2 th {
+  background: linear-gradient(135deg, #00103b, #00235a);
+  color: rgba(255, 255, 255, 0.9);
+  padding: 10px 8px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.tabela-prod2 th:first-child { border-radius: 8px 0 0 8px; }
+.tabela-prod2 th:last-child  { border-radius: 0 8px 8px 0; }
+
+.tabela-prod2 td {
+  padding: 10px 8px;
+  border-bottom: 1px solid #f1f5f9;
+  text-align: center;
+  color: #00103b;
+}
+
+.tabela-prod2 tr:last-child td { border-bottom: none; }
+
+.tabela-prod2 tr:hover td {
+  background: #f0f6ff;
+}
+
+/*TABELA — DESTAQUES*/
+.tabela-prod3 {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.tabela-prod3 th {
+  background: linear-gradient(135deg, #00103b, #00235a);
+  color: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.tabela-prod3 th:first-child { border-radius: 10px 0 0 10px; }
+.tabela-prod3 th:last-child  { border-radius: 0 10px 10px 0; }
+
+.tabela-prod3 td {
+  padding: 14px 10px;
+  border-bottom: 1px solid #000c2d;
+  text-align: center;
+  color: #000c2d;
+}
+
+.tabela-prod3 tr:last-child td { border-bottom: none; }
+
+.tabela-prod3 tr:hover td {
+  background: #f0f6ff;
+  color: #00235a;
+}
+
+/* ============================================================
+   SEÇÃO DE SISTEMAS (cards por estado)
+   ============================================================ */
+.links-importantes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+  gap: 15px;
+}
+
+.regiao-box {
+  background: white;
+  border-radius: 16px;
+  padding: 25px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  border: 1px solid #002d888a;
+  transition: 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.regiao-box h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #00013d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #00013d;
+}
+
+/* Imagens dos estados */
+.estado img {
+  height: 1.2em;
+  width: auto;
+}
+
+/* Botões de sistema */
+.btn-regiao {
+  width: 100%;
+  background: #001154;
+  color: rgb(255, 255, 255);
+  border: none;
+  margin: 8px 0;
+  padding: 10px 15px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.25s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  letter-spacing: 0.01em;
+  box-shadow: 0 2px 8px rgba(0, 35, 90, 0.2);
+}
+
+.btn-regiao img {
+  height: 1.5em;
+  width: auto;
+}
+
+.btn-regiao:hover {
+  background: #00218c;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 7, 105, 0.84);
+}
+
+/* ============================================================
+   GALERIA
+   ============================================================ */
+.galeria-netflix {
+  margin-top: 60px;
+}
+
+.titulo-secao {
+  margin-bottom: 20px;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+  
+}
+
+.galeria-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 20px 0 10px;
+  position: relative;
+}
+
+.galeria-viewport {
+  flex: 1;
+  overflow: hidden;
+  border-radius: 15px;
+  min-width: 0;
+}
+
+.galeria-track {
+  display: flex;
+  gap: 20px;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
+}
+
+.galeria-slide {
+  flex: 0 0 calc(33.333% - 11px);
+  min-width: calc(33.333% - 11px);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 8px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 2px 8px rgba(221, 0, 0, 0.06);
+}
+
+.galeria-slide img,
+.slide img {
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.galeria-slide img { aspect-ratio: 4 / 3; }
+.slide img         { aspect-ratio: 16 / 9; border-radius: 10px; }
+
+.galeria-slide img:hover,
+.slide img:hover {
+  transform: scale(1.03);
+}
+
+/* Slide (galeria simples) */
+.slide {
+  flex: 0 0 calc(33.333% - 10px);
+}
+
+/* Botões da galeria */
+.galeria-btn {
+  background: #00027a;
+  color: white;
+  border: none;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  font-size: 18px;
+  cursor: pointer;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.25s, transform 0.2s;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.galeria-btn:hover  { background: #1d2858; transform: scale(1.1); }
+.galeria-btn:disabled { background: #ccc; cursor: default; transform: none; }
+
+/* Dots / pontos */
+.galeria-dots,
+.galeria-pontos {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.dot,
+.galeria-ponto {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgb(136, 136, 136);
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.dot.active,
+.galeria-ponto.ativo {
+  background: #05005a;
+  transform: scale(1.3);
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #000000;
+  font-size: 13px;
+}
+
+/* ============================================================
+   RESPONSIVO
+   ============================================================ */
+@media (max-width: 900px) {
+  .grid-paineis {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "metas"
+      "top10"
+      "destaques"
+      "campanha";
+  }
+}
+
+@media (max-width: 768px) {
+  .galeria-slide,
+  .slide {
+    flex: 0 0 100%;
+    min-width: 100%;
+  }
+}

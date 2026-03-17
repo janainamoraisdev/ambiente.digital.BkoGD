@@ -1,0 +1,25 @@
+{
+
+  "AP": [
+    {
+      "carteira": "PPM",
+      "observacao": "Poder Público Municipal"
+    },
+    {
+      "carteira": "GA AMAPA",
+      "observacao": "Todos Alta Tensão"
+    },
+    {
+      "carteira": "PPEF",
+      "observacao": "Poder Público Estadual e Federal"
+    },
+    {
+      "carteira": "REDE",
+      "observacao": "Geração Centralizada"
+    },
+    {
+      "carteira": "GDIS",
+      "observacao": "Geração Distribuída BT"
+    }
+  ]
+}

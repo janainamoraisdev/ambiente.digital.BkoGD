@@ -1,0 +1,515 @@
+{
+
+  "AL": [
+    {
+      "municipio": "Anadia",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Atalaia",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Barra de Santo Antônio",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Barra de São Miguel",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Boca da Mata",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Branquinha",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Cajueiro",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Campestre",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Capela",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Chã Preta",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Colônia Leopoldina",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Coqueiro Seco",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Flexeiras",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Ibateguara",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Jacuípe",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Japaratinga",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Joaquim Gomes",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Jundiá",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maceió",
+      "carteira_grupo_a": "GA MAC 1 (Demanda contratada até 100kW)",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maceió",
+      "carteira_grupo_a": "GA MAC 2 (Demanda contratada a partir de 101kW e até 749kW)",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Mar Vermelho",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maragogi",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Marechal Deodoro",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Maribondo",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Matriz De Camaragibe",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Messias",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Murici",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Novo Lino",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Paripueira",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Passo De Camaragibe",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Pilar",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Pindoba",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Porto Calvo",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Porto De Pedras",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Rio Largo",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Roteiro",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Santa Luzia do Norte",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Santana Do Mundaú",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Jose Da Laje",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Luiz Do Quitunde",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Miguel dos Campos",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "São Miguel Dos Milagres",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Satuba",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Tanque D’arca",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "União Dos Palmares",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Viçosa",
+      "carteira_grupo_a": "GA METRO",
+      "carteira_ppm": "PPM LESTE"
+    },
+    {
+      "municipio": "Agua Branca",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Arapiraca",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Batalha",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Belém",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Belo Monte",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Cacimbinhas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Campo Alegre",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Campo Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Canapi",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Carneiros Delmiro Gouveia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Coite do Noia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Coruripe",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Craíbas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Dois Riachos",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Estrela de Alagoas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Feira Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Feliz Deserto",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Girau do Ponciano",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Igaci",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Igreja Nova",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Inhapi",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Jacaré Dos Homens",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Jaramataia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Jequiá da Praia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Junqueiro",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Lagoa da Canoa",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Limoeiro de Anadia",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Major Izidoro",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Maravilha",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Mata Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Minador do Negrão",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Monteirópolis",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olho D’agua Das Flores",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olho D’água Do Casado",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olho D’Água Grande",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Olivença",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Ouro Branco",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Palestina",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Palmeira dos Índios",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Pão De Açúcar",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Pariconha",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Paulo Jacinto",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Penedo",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Piaçabuçu",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Piranhas",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Poço Das Trincheiras",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Porto Real do Colégio",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Quebrangulo",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Santana Do Ipanema",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "São Brás",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "São José de Tapera",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "São Sebastião",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Senador Rui Palmeira",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Taquarana",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Teotônio Vilela",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    },
+    {
+      "municipio": "Traipu",
+      "carteira_grupo_a": "GA OESTE",
+      "carteira_ppm": "PPM OESTE"
+    }
+  ]
+}

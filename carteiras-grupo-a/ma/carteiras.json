@@ -1,0 +1,1734 @@
+{
+  "MA": [
+    {
+      "municipio": "SÃO LUIS-ALEMANHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ALTO DO CALHAU",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANANANDIBA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANANANDIBA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANGELIM",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANIL",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANIL PLANALTO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ANJO GUARDA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-APACO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-APEADOURO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ARACAGY",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-AREINHA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-AURORA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BACANGA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BARES",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BARRETO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BARROCA VELHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BEQUIMAO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BOM JESUS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BOM MILAGRE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-BRISA MAR",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CAJUEIRO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CALHAU",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CAMBOA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CANTO FABRIL",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CAOLHO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CENTRO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CIDADE NOVA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CIDADE OPERARIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB ANIL I",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB ANIL III",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAB ANIL IV",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAFUMA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAJAP",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAJOLY",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHAMA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHASERMA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHATRAC II",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHATRAC III",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-COHATRAC IV",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-CRUZEIRO DO ANIL",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-DIAMANTE",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-DISTRITO INDUSTRIAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-DIVINEIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ESTIVA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-FATIMA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-FILIPINHO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-FORQUILHA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-GLEBA B",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-IPASE",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ITAPERA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-ITAQUI",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JAGUAREMA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JARACATI",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JARDIM RENASCENCA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD ELDORADO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD LISBOA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD PRIMAVERA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD RENASCENCA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD S CRISTOV II",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JD S CRISTOVAO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JOÃO DE DEUS",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JOAO PAULO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JORDOA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-JUCARA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MADRE DEUS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MAIOBINHA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MAJOR LUCENA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARACANA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARACUJA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARANHAO NOVO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MARAVILHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MATA DE ITAPERA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MATINHA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-MONTE CASTELO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-NOVA REPUBLICA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-OLHO DAGUA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-OUTEIRO DA CRUZ",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PAU DEITADO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PEDRINHAS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PONTA DAREIA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PONTA DO FAROL",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PONTA FAROL",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PORTINHO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PORTO GRANDE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ ATLANTICO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ SHALON",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ TIMBIRAS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PQ VITORIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-PRAIA GRANDE",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-QUEBRA POTE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-QUINTAS CALHAU",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RECANTO DOS VINHAIS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RENASCENCA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RENASCENCA II",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RES GOV L ROCHA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RIO GRANDE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RIO GRANDE 1",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-RURAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SALINA DO SACAVEM",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SANTA BARBARA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO BERNARDO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO CRISTOVAO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO FRANCISCO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-SAO MARCOS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-STA CRUZ",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-STO ANTONIO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-TIBIRI",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-TIRIRICAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-TURU",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VICENTE FIALHO",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VILA ISABEL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VINHAIS",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL ARIRI I",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL B ESPERANCA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL EMBRATEL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL ESPERANCA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL FIALHO",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL INDUSTRIAL",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL ITAMAR",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL IVAR SALDANHA",
+      "carteira_grupo_a": "NORTECAL",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL JANAINA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL MAURO FECURY",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL PALMEIRA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL PASSOS",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL RIOD",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL SARNEY",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SÃO LUIS-VL VITORIA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ALTO ALEGRE DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "BACABAL",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "BERNARDO DO MEARIM",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "BOM LUGAR",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "CANTANHEDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "CONCEICAO DO LAGO ACU",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "COROATA",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "IGARAPE GRANDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "ITAPECURU MIRIM",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGO DA PEDRA",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGO DOS RODRIGUES",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGO VERDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LAGOA GRANDE DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "LIMA CAMPOS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "MARAJA DO SENA",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PAULO RAMOS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "NINA RODRIGUES",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PEDREIRAS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PERITORO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PIRAPEMAS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "PRESIDENTE VARGAS",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "SAO LUIS GONZAGA DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "SAO MATEUS DO MARANHAO",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "TRIZIDELA DO VALE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "VARGEM GRANDE",
+      "carteira_grupo_a": "CENTROBCB",
+      "carteira_ppm": "CENTROBCB"
+    },
+    {
+      "municipio": "POCAO DE PEDRAS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "BARRA DO CORDA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "CAPINZAL DO NORTE",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "DOM PEDRO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "ESPERANTINOPOLIS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "FERNANDO FALCAO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "FORTUNA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GONCALVES DIAS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GOV. EUGENIO BARROS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GOVERNADOR ARCHER",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GOVERNADOR LUIS ROCHA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "GRACA ARANHA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "JENIPAPO DOS VIEIRAS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "JOSELANDIA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "PRESIDENTE DUTRA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SANTA FILOMENA DO MARANHAO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SANTO ANTONIO DOS LOPES",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO MARANHAO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SAO JOSE DOS BASILIOS",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SÃO RAIMUNDO DO DOCA BEZERRA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SAO ROBERTO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "SENADOR ALEXANDRE COSTA",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "TUNTUM",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "LAGO DO JUNCO",
+      "carteira_grupo_a": "CENTROPDT",
+      "carteira_ppm": "CENTROPDT"
+    },
+    {
+      "municipio": "ANAJATUBA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "MATOES DO NORTE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "MIRANDA DO NORTE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ALTAMIRA DO MARANHAO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ALTO ALEGRE DO PINDARE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ARAGUANA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ARARI",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "BELA VISTA DO MARANHAO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "BOM JARDIM",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "BREJO DE AREIA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "IGARAPE DO MEIO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "MONCAO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "OLHO DAGUA DAS CUNHAS",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "PINDARE MIRIM",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "PIO XII",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SANTA INES",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SANTA LUZIA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SAO JOAO DO CARU",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "SATUBINHA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "TUFILANDIA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "VITORIA DO MEARIM",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "VITORINO FREIRE",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "ZE DOCA",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "GOVERNADOR NEWTON BELLO",
+      "carteira_grupo_a": "CENTROSTI",
+      "carteira_ppm": "CENTROSTI"
+    },
+    {
+      "municipio": "AFONSO CUNHA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "ANAPURUS",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "BELAGUA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "BREJO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "BURITI",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "CHAPADINHA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "TIMBIRAS",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "CODO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "COELHO NETO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "DUQUE BACELAR",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "MATA ROMA",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "MILAGRES DO MARANHAO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "SANTA QUITERIA DO MARANHAO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "SAO BENEDITO DO RIO PRETO",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "URBANO SANTOS",
+      "carteira_grupo_a": "LESTECHAP",
+      "carteira_ppm": "LESTECHAP"
+    },
+    {
+      "municipio": "ALDEIAS ALTAS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "BARAO DE GRAJAU",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "BENEDITO LEITE",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "BURITI BRAVO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "CAXIAS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "COLINAS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "JATOBA",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "LAGOA DO MATO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "MATOES",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "MIRADOR",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "NOVA IORQUE",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PARAIBANO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PARNARAMA",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PASSAGEM FRANCA",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "PASTOS BONS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO DOMINGOS DO AZEITAO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO MARANHAO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO JOAO DO SOTER",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SAO JOAO DOS PATOS",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SUCUPIRA DO NORTE",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "SUCUPIRA DO RIACHAO",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "TIMON",
+      "carteira_grupo_a": "LESTETMON",
+      "carteira_ppm": "LESTETMON"
+    },
+    {
+      "municipio": "AMAPA DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "APICUM-ACU",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "BACURI",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "BOA VISTA DO GURUPI",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CANDIDO MENDES",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CARUTAPERA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CENTRO DO GUILHERME",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CURURUPU",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "CENTRO NOVO DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "GODOFREDO VIANA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "GOVERNADOR NUNES FREIRE",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "JUNCO DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "LUIS DOMINGUES",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "MARACACUME",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "MARANHAOZINHO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "NOVA OLINDA DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "PRESIDENTE MEDICI",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "SANTA HELENA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "SANTA LUZIA DO PARUA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "SERRANO DO MARANHAO",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "TURIACU",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "TURILANDIA",
+      "carteira_grupo_a": "NORTEGNF",
+      "carteira_ppm": "NORTEGNF"
+    },
+    {
+      "municipio": "ALCANTARA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "BACURITUBA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "BEQUIMAO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CAJAPIO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CAJARI",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CEDRAL",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "CENTRAL DO MARANHAO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PORTO RICO DO MARANHAO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "GUIMARAES",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "MATINHA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "MIRINZAL",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "OLINDA NOVA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PALMEIRANDIA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PEDRO DO ROSARIO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PENALVA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PERI MIRIM",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PINHEIRO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "PRESIDENTE SARNEY",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "SAO BENTO",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "SAO JOAO BATISTA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "SAO VICENTE FERRER",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "VIANA",
+      "carteira_grupo_a": "NORTEPHO",
+      "carteira_ppm": "NORTEPHO"
+    },
+    {
+      "municipio": "AGUA DOCE DO MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ARAIOSES",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "MAGALHAES DE ALMEIDA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PAULINO NEVES",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SANTANA DO MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SAO BERNARDO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "TUTOIA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "AXIXA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "BACABEIRA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "BARREIRINHAS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "CACHOEIRA GRANDE",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "HUMBERTO DE CAMPOS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ICATU",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PACO DO LUMIAR",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "MORROS",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PRESIDENTE JUSCELINO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "PRIMEIRA CRUZ",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ROSARIO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SANTA RITA",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "SANTO AMARO DO MARANHAO",
+      "carteira_grupo_a": "NORTEBR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "ALTO PARNAIBA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "BALSAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "CAROLINA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "FEIRA NOVA DO MARANHAO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "FORMOSA DA SERRA NEGRA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "FORTALEZA DOS NOGUEIRAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "GRAJAU",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "LORETO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "NOVA COLINAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "RIACHAO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAMBAIBA",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAO FELIX DE BALSAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAO PEDRO DOS CRENTES",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "SAO RAIMUNDO DAS MANGABEIRAS",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "TASSO FRAGOSO",
+      "carteira_grupo_a": "GA BALSAS",
+      "carteira_ppm": "PPM BALSAS"
+    },
+    {
+      "municipio": "ACAILANDIA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "AMARANTE DO MARANHAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ARAME",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "BOM JESUS DA SELVA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "BURITICUPU",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "BURITIRANA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "CAMPESTRE DO MARANHAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "CIDELANDIA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "DAVINOPOLIS",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ESTREITO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "GOVERNADOR EDSON LOBAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "IMPERATRIZ",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ITAIPAVA DO GRAJAU",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "ITINGA DO MARANHAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "JOAO LISBOA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "LAJEADO NOVO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "MONTES ALTOS",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "PORTO FRANCO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "RIBAMAR FIQUENE",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO BREJAO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SAO JOAO DO PARAISO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SAO PEDRO DA AGUA BRANCA",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SENADOR LA ROCQUE",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SITIO NOVO",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "VILA NOVA DOS MARTIRIOS",
+      "carteira_grupo_a": "GA IMP",
+      "carteira_ppm": "PPM IMP"
+    },
+    {
+      "municipio": "SÃO JOSE DE RIBAMAR",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    },
+    {
+      "municipio": "RAPOSA",
+      "carteira_grupo_a": "NORTETUR",
+      "carteira_ppm": "NORTEROSA"
+    }
+  ]
+}

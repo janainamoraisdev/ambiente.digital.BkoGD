@@ -1,0 +1,1135 @@
+{
+
+  "PI": [
+    {
+      "municipio": "ACAUA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ALAGOINHA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ALEGRETE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ALVORADA DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "ANISIO DE ABREU",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "ANTONIO ALMEIDA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "AROAZES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "AROEIRAS DO ITAIM",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ARRAIAL",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "AVELINO LOPES",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "BAIXA GRANDE DO RIBEIRO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BARRA D ALCANTARA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BARREIRAS DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "BELA VISTA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BELEM DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "BERTOLINIA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "BETANIA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "BOCAINA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "BOM JESUS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "BONFIM DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "BREJO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CAJAZEIRAS DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CALDEIRAO GRANDE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "CAMPINAS DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CAMPO ALEGRE DO FIDALGO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CAMPO GRANDE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "CANAVIEIRA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CANTO DO BURITI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CAPITAO GERVASIO OLIVEIRA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CARACOL",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CARIDADE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "COLONIA DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "COLONIA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CONCEICAO DO CANINDE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "CORONEL JOSE DIAS",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "CORRENTE",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CRISTALANDIA DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CRISTINO CASTRO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CURIMATA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CURRAIS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "CURRAL NOVO DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "DIRCEU ARCOVERDE",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "DOM EXPEDITO LOPES",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "DOM INOCENCIO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "ELESBAO VELOSO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "ELIZEU MARTINS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "FARTURA DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "FLORES DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FLORESTA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FLORIANO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FRANCINOPOLIS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FRANCISCO AYRES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "FRANCISCO MACEDO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "FRANCISCO SANTOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "FRONTEIRAS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "GEMINIANO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "CA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "GUADALUPE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "GUARIBAS",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "INHUMA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "IPIRANGA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "ISAIAS COELHO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "ITAINOPOLIS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "ITAUEIRA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "JACOBINA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "JAICOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "JERUMENHA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "JOAO COSTA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "JULIO BORGES",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "JUREMA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "LAGOA DO BARRO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "LAGOA DO SITIO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "LANDRI SALES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "MANOEL EMIDIO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "MARCOLANDIA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "MARCOS PARENTE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "MASSAPE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "MONSENHOR HIPOLITO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "MONTE ALEGRE DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "MORRO CABECA NO TEMPO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "NAZARE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "NOVA SANTA RITA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "NOVO ORIENTE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "OEIRAS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PADRE MARCOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PAES LANDIM",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PAJEU DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "PALMEIRA DO PIAUI",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "PAQUETA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PARNAGUA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "PATOS DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PAULISTANA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PAVUSSU",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PEDRO LAURENTINO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "PICOS",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PIMENTEIRAS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "PIO IX",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "PORTO ALEGRE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "QUEIMADA NOVA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "REDENCAO DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "RIACHO FRIO",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "RIBEIRA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "RIBEIRO GONCALVES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "RIO GRANDE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SANTA CRUZ DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SANTA CRUZ DOS MILAGRES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SANTA FILOMENA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SANTA LUZ",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SANTA ROSA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SANTANA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SANTO ANTONIO DE LISBOA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SANTO INACIO DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO BRAZ DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SAO FELIX DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO FRANCISCO DE ASSIS",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO FRANCISCO DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO GONCALO DO GURGUEIA",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SAO JOAO DA CANABRAVA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO JOAO DA VARJOTA",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO JOAO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SAO JOSE DO PEIXE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO JOSE DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO JULIAO",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO LOURENCO DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SAO LUIS DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SAO MIGUEL DA BAIXA GRANDE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO MIGUEL DO FIDALGO",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SAO RAIMUNDO NONATO",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "SEBASTIAO BARROS",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    },
+    {
+      "municipio": "SEBASTIAO LEAL",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SIMOES",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "SIMPLICIO MENDES",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SOCORRO DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "SUSSUAPARA",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "TAMBORIL DO PIAUI",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "TANQUE DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "URUCUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "VALENCA DO PIAUI",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "VARZEA BRANCA",
+      "carteira_regional": "S R NONATO",
+      "carteira_ppm": "S R NONATO"
+    },
+    {
+      "municipio": "VARZEA GRANDE",
+      "carteira_regional": "GA_FLORIAN",
+      "carteira_ppm": "PPM_FLORIA"
+    },
+    {
+      "municipio": "VERA MENDES",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "VILA NOVA DO PIAUI",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "WALL FERRAZ",
+      "carteira_regional": "HIB_PICOS",
+      "carteira_ppm": "HIB_PICOS"
+    },
+    {
+      "municipio": "AGRICOLANDIA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "AGUA BRANCA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "TERESINA",
+      "carteira_regional": "GA_METR100 (localização geográfica ACIMA do Teresina Shopping)",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ALTO LONGA",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "AMARANTE",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ANGICAL DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ALTOS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "ASSUNCAO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BARRO DURO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BENEDITINOS",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BARRAS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BOA HORA",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BOQUEIRAO DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "BURITI DOS MONTES",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CABECEIRAS DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CAMPO MAIOR",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CASTELO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "CURRALINHOS",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "DEMERVAL LOBAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "HUGO NAPOLEAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JARDIM DO MULATO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "COIVARAS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JATOBA DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JOSE DE FREITAS",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "JUAZEIRO DO PIAUI",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "LAGOA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "LAGOINHA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "LAGOA ALEGRE",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "MIGUEL LEAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "MONSENHOR GIL",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "NAZARIA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "MIGUEL ALVES",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "NOSSA SENHORA DE NAZARE",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "OLHO D'AGUA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PALMEIRAIS",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PASSAGEM FRANCA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PAU D ARCO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PRATA DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "REGENERACAO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SANTO ANTONIO DOS MILAGRES",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO GONCALO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO JOAO DA SERRA",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "NOVO SANTO ANTONIO",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO PEDRO DO PIAUI",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SAO MIGUEL DO TAPUIO",
+      "carteira_regional": "GA_METR200",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "SIGEFREDO PACHECO",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "TERESINA",
+      "carteira_regional": "GA_METR200  (localização geográfica ABAIXO do Teresina Shopping)",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "PARNAIBA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BATALHA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BOM PRINCIPIO DO PIAUI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BRASILEIRA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "BURITI DOS LOPES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAJUEIRO DA PRAIA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAMPO LARGO DO PIAUI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAPITAO DE CAMPOS",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CARAUBAS DO PIAUI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "CAXINGO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "COCAL",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "COCAL DE TELHA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "COCAL DOS ALVES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "DOMINGOS MOURAO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "ESPERANTINA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "ILHA GRANDE",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "JOAQUIM PIRES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "JOCA MARQUES",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "LAGOA DE SAO FRANCISCO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "LUIS CORREIA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "LUZILANDIA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MADEIRO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MATIAS OLIMPIO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MILTON BRANDAO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MORRO DO CHAPEU DO PIAUI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "MURICI DOS PORTELAS",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "NOSSA SENHORA DOS REMEDIOS",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PEDRO II",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PIRACURUCA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PIRIPIRI",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "PORTO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "SAO JOAO DA FRONTEIRA",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "SAO JOAO DO ARRAIAL",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "SAO JOSE DO DIVINO",
+      "carteira_regional": "GA_PARNAIB",
+      "carteira_ppm": "PPM_PARNAI"
+    },
+    {
+      "municipio": "UNIAO",
+      "carteira_regional": "GA_METR100",
+      "carteira_ppm": "PPM_METRO"
+    },
+    {
+      "municipio": "GILBUES",
+      "carteira_regional": "BOM JESUS",
+      "carteira_ppm": "BOM JESUS"
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ambiente Digital BKO GD</title>
+
+<link rel="stylesheet" href="style.css" />
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+
+<nav class="menu-principal">
+  <img src="imagens/LOGO.png" alt="Logo BKO GD">  
+  <div class="menu-item">
+    <a href="tipos/index.html"target="_blank">Links Importantes</a>
+    <div class="dropdown">
+      <a href="https://login.sae1.pure.cloud/?rid=WAQziPPWSg94aF0U2UjUBeqFz8nF2_3IH1izywQiGDo#/authenticate"target="_blank">Genesys</a>
+      <a href="https://portaldeservicos.equatorialenergia.com.br/esc?id=ec_pro_home"target="_blank">Portal do Colaborador</a>
+      <a href="https://sisfeedback.equatorialenergia.com.br/login"target="_blank">Sisfeedback</a>
+      <a href="https://equatorialenergia.learning.rocks/"target="_blank">Universidade do Saber</a>
+      <a href="https://app.qulture.rocks/users/sign_in"target="_blank">Qulture.Rocks</a> 
+    </div>
+  </div>
+
+  <div class="menu-item">
+    <a href="contatos/geral.html"target="_blank">Contatos</a>
+    <div class="dropdown">
+      <a href="contatos/email/email.html"target="_blank">E-mail</a>
+      <a href="contatos/telefone/telefone.html"target="_blank">Telefones</a>
+    </div>
+  </div>
+
+
+<div class="menu-item">
+    <a href="script/script.html"target="_blank">Script</a>
+    <div class="dropdown">
+      <a href="script/CONEXÃO.pdf"target="_blank">Orçamento de Conexão</a>
+      <a href="script/ESTIMADO.pdf"target="_blank">Orçamento Estimado</a>
+      <a href="script/VISTORIA.pdf"target="_blank">Vistoria e Ligação</a>
+    </div>
+  </div>
+
+  <div class="menu-item">
+    <a href="passoapasso/geral.html"target="_blank">Passo a Passo</a>
+    <div class="dropdown">
+      <a href="passoapasso/sap/sap.html"target="_blank">SAP</a>
+      <a href="passoapasso/cbill/cbill.html"target="_blank">CBILL</a>
+    </div>
+  </div>
+
+   <div class="menu-item">
+      <a href="carteiras-grupo-a/carteiras-grupo-a.html"target="_blank">Carteiras Grupo A</a>
+    <div class="dropdown">
+      <a href="carteiras-grupo-a/ma/ma.html"target="_blank">Maranhão</a>
+      <a href="carteiras-grupo-a/pa/pa.html"target="_blank">Pará </a>
+      <a href="carteiras-grupo-a/pi/PI.HTML"target="_blank">Piaui </a>
+      <a href="carteiras-grupo-a/al/al.html"target="_blank">Alagoas </a>
+      <a href="carteiras-grupo-a/ap/ap.html"target="_blank">Amapá</a>
+      <a href="carteiras-grupo-a/rs/rs.html"target="_blank">Rio Grande do Sul </a>
+      <a href="carteiras-grupo-a/go/go.html"target="_blank">Goiás </a>
+    </div>
+  </div>
+
+   <div class="menu-item">
+    <a href="configuracao/index.html"target="_blank">Configurações Sistemas</a>
+    <div class="dropdown">
+      <a href="configuracao/sap/CONFIGURAR SAP.pdf"target="_blank">SAP</a>
+      <a href="configuracao/sap/SAP.HTML"target="_blank">SAP CÓDIGOS</a>
+      <a href= "configuracao/cs/CS.pdf"target="_blank">CS</a>
+      <a href="configuracao/crm/CONFIURAR PLUSOFT.pdf"target="_blank">CRM Plusoft</a>
+    </div>
+  </div>
+
+<div class="menu-item">
+    <a href="+/adicionais.html"target="_blank">+</a>
+    <div class="dropdown">
+      <a href="https://forms.office.com/r/9XcisMsN5x"target="_blank">Sugestões</a>
+      <a href="https://www2.aneel.gov.br/cedoc/ren20211000.html#_Toc195003907"target="_blank"> Aneel</a>
+      <a href= "mais/NT.00020.EQTL-05-Conexao-de-Micro-e-Minigeracao-Distribuida-ao-Sistema-de-Distribuicao.pdf"target="_blank"> NT0020</a>
+      <a href="mais/POP.01149.EQTL - 00 - POP.01149.EQTL- Solicitação de orçamento de conexão de MicroMinigeração Distribuída 1 1.pdf"target="_blank"> POP.00149</a>
+      <a href="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=FLUXOGRAMA%20GD.html&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1fo_8VFM9BiCJI-YMUb6Wz0AQ67D5_U1T%26export%3Ddownload#%7B%22pageId%22%3A%22Q93soQFbzneLG7lwXgAz%22%7D"target="_blank"> FLUXOGRAMA PLUSOFT</a>
+
+    </div>
+  </div>
+  
+<div class="busca-sistemas">
+
+<input type="text"
+id="buscarSistema"
+placeholder="Buscar sistema, página ou documento..."
+autocomplete="off">
+
+<div id="resultadosBusca"></div>
+
+</div>
+</nav>
+
+<main class="container">
+  <div class="logo-area">
+      <h1>Ambiente Digital BKO GD</h1>
+  </div>
+
+<div class="dashboard">
+
+<div class="card-indicador">
+<h3>Colaboradores Ativos </h3>
+<p id="demandasHoje">0</p>
+</div>
+
+<div class="card-indicador">
+<h3>Colaboradores de Férias</h3>
+<p id="conexoes">0</p>
+</div>
+
+<div class="card-indicador">
+<h3>Distribuidoras Atendidas</h3>
+<p id="vistorias">0</p>
+</div>
+
+<div class="card-indicador">
+<h3>Sistemas utilizados</h3>
+<p id="orcamentos">0</p>
+</div>
+
+</div>
+
+  <div class="grid-paineis">
+
+  <div class="panel panel-metas">
+    <h2>Card de Metas📈</h2>
+    
+    <table class="tabela-prod2">
+    <thead>
+    <tr>
+    <th>CURVA</th> 
+    <th>%</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr>
+    <td>A</td>
+    <td>A partir de 100%</td>
+    </tr>
+
+    <tr>
+    <td>B</td>
+    <td>Até 98%</td>
+    </tr>
+
+    <tr>
+    <td>C</td>
+    <td>Até 84%</td>
+    </tr>
+    </tbody>
+    </table>
+
+  </div>
+
+<div class="panel panel-top10">
+<h2>Top 10 Produtividade🚀</h2>
+
+<table class="tabela-prod">
+<thead>
+<tr>
+ <th>Nº</th> 
+<th>NOME</th>
+<th>PRODUTIVIDADE</th>
+<th>S/EXP</th>
+<th>CURVA</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>🥇</td>
+<td>BRUNA CARVALHO RODRIGUES</td>
+<td>290,93%</td>
+<td>277,70%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>🥈</td>
+<td>ELIANE DE SA COSTA</td>
+<td>290,26%</td>
+<td>277,07%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>🥉</td>
+<td>DERICK SOUSA COSTA</td>
+<td>279,84%</td>
+<td>267,12%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>4º</td>
+<td>LUCAS CADETE DOS REIS</td>
+<td>253,18%</td>
+<td>241,67%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>5º</td>
+<td>TAMIRES MENESES COLARES</td>
+<td>248,20%</td>
+<td>236,92%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>6º</td>
+<td>THIAGO SOUSA NASCIMENTO</td>
+<td>235,75%</td>
+<td>225,04%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>7º</td>
+<td>AMANDA TATILA DE JESUS SILVA LEAO</td>
+<td>231,67%</td>
+<td>221,14%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>8º</td>
+<td>JOSE ARTHUR BARROS CAMPELO</td>
+<td>228,28%</td>
+<td>217,90%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>9º</td>
+<td>TAMIRES DE BRITO SILVA</td>
+<td>216,64%</td>
+<td>206,80%</td>
+<td>A</td>
+</tr>
+
+<tr>
+<td>10º</td>
+<td>RONALDO CRUZ ALMEIDA JUNIOR</td>
+<td>209,19%</td>
+<td>199,68%</td>
+<td>A</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+
+    <div class="panel panel-destaques">
+    <h2>Destaques✨</h2>
+	<table class="tabela-prod3">
+		<thead>
+		<tr>
+		<th>NOME</th>
+		<th>DEMANDA</th>
+		<th>ESTADO/REGIÃO</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr><td>DERICK SOUSA COSTA</td><td>ORÇAMENTO E VISTORIA</td><td>NORTE E NORDESTE</td></tr>
+		<tr><td>ESTELA KARLA NASCIMENTO DA SILVA</td><td>ORÇAMENTO E VISTORIA</td><td>NORTE E NORDESTE</td></tr>
+		<tr><td>JOSE ARTHUR BARROS CAMPELO</td><td>GERAR E ENVIAR</td><td>GOIAS</td></tr>
+		<tr><td>JHONARA SOUSA DA CONCEICAO</td><td>GERAR E ENVIAR</td><td>GOIAS</td></tr>
+		<tr><td>GIOVANNA ANTUNES VARELA CAL</td><td>ATUALIZAR CADASTRO</td><td>NORTE E NORDESTE</td></tr>
+		<tr><td>JOYCEANNE KAROLINE COSTA GOMES</td><td>GERAR E ENVIAR</td><td>NORTE E NORDESTE</td></tr>
+		<tr><td>LUCAS CADETE DOS REIS</td><td>GERAR E ENVIAR</td><td>RIO GRANDE DO SUL</td></tr>
+		<tr><td>SAMIA CAMPOS VIEIRA</td><td>SITE E MEDIDAS</td><td>AMAPÁ</td></tr>
+		<tr><td>BRUNA CARVALHO RODRIGUES</td><td>VITORIA</td><td>GOIAS</td></tr>
+		<tr><td>ELIANE DE SA COSTA</td><td>VITORIA</td><td>GOIAS</td></tr>
+		<tr><td>THIAGO SOUSA NASCIMENTO</td><td>ORÇAMENTO</td><td>GOIAS</td></tr>
+		<tr><td>MATHEUS DE OLIVEIRA RIO</td><td>ORÇAMENTO</td><td>GOIAS</td></tr>
+		<tr><td>MARIA GILMA LIMA SILVA</td><td>ORÇAMENTO E VISTORIA</td><td>RIO GRANDE DO SUL</td></tr>
+		</tbody>
+	</table>
+  </div>
+
+  <div class="panel panel-campanha">
+    <h2>Campanha Mensal📅</h2>
+    <img src="imagens/CAMPANHA.png" style="width:70%;border-radius:10px;margin-top:80px">
+  </div>
+
+</div>
+  
+
+<section class="galeria-netflix">
+
+<h2 class="titulo-secao">📸Galeria da Equipe 📸</h2>
+
+<div class="galeria-wrapper">
+
+<button class="galeria-btn prev" id="btnPrev">❮</button>
+
+<div class="galeria-viewport">
+
+<div class="galeria-track" id="galeriaTrack">
+
+<div class="slide">
+<img src="imagens/galeria/geral.jpg">
+</div>
+
+<div class="slide">
+<img src="imagens/galeria/go.jpg">
+</div>
+
+<div class="slide">
+<img src="imagens/galeria/GO.jpg">
+</div>
+
+<div class="slide">
+<img src="imagens/galeria/ok8.jpg">
+</div>
+
+<div class="slide">
+<img src="imagens/galeria/ok3.jpg">
+</div>
+
+<div class="slide">
+<img src="imagens/galeria/ok5.jpg">
+</div>
+
+<div class="slide">
+<img src="imagens/galeria/ok6.jpg">
+</div>
+
+<div class="slide">
+<img src="imagens/galeria/ok8.jpg">
+</div>
+
+</div>
+
+</div>
+
+<button class="galeria-btn next" id="btnNext">❯</button>
+
+</div>
+
+<div class="galeria-dots" id="galeriaDots"></div>
+
+</section>
+
+  <!-- SISTEMAS -->
+  <div class="logo-area" style="margin-top: 40px;">
+    <div class="logo">Sistemas🔍</div>
+  </div>
+
+  <div class="links-importantes" style="margin-top: 40px;">
+
+    <div class="regiao-box">
+      <h3 class="estado">
+      <img src="imagens/maranhao.png" alt="Bandeira do Maranhão">
+        Maranhão
+      </h3>
+      <button class="btn-regiao" data-link="http://unifica.equatorialenergia.com.br:9204/sap(bD1wdCZjPTQwMSZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm?sap-client=401&sap-language=PT"target="_blank">SAP<img src="imagens/sap.png"> </button>
+      <button class="btn-regiao" data-link="https://backoffice-ma.equatorialenergia.com.br/login/"target="_blank">BACKOFFICE (SITE ANTIGO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://agenciavirtual.equatorialenergia.com.br/Backoffice"target="_blank">BACKOFFICE (SITE NOVO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia.my.salesforce.com/"target="_blank">SALESFORCE<img src="imagens/SALESFORCE.png"> </button>
+
+    </div>
+
+
+    <div class="regiao-box">
+     <h3 class="estado">
+      <img src="imagens/para.png" alt="Bandeira do Pará">
+        Pará
+      </h3>
+      <button class="btn-regiao" data-link="http://unifica.equatorialenergia.com.br:9203/sap(bD1wdCZjPTQwMiZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm?sap-client=402&sap-language=PT"target="_blank">SAP<img src="imagens/SAP.png"> </button>
+      <button class="btn-regiao" data-link="https://backoffice-pa.equatorialenergia.com.br/login/"target="_blank">BACKOFFICE (SITE ANTIGO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://agenciavirtual.equatorialenergia.com.br/Backoffice"target="_blank">BACKOFFICE (SITE NOVO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia.my.salesforce.com/"target="_blank">SALESFORCE<img src="imagens/SALESFORCE.png"> </button>
+    
+    </div>
+
+    <div class="regiao-box">
+     <h3 class="estado">
+      <img src="imagens/piaui.png" alt="Bandeira do Piauí">
+        Piauí
+      </h3>
+
+      <button class="btn-regiao" data-link="http://epispdccrm01.equatorial.corp:8000/sap/bc/bsp/sap/crm_ui_start/default.htm"target="_blank">SAP<img src="imagens/SAP.png"> </button>
+      <button class="btn-regiao" data-link="https://backoffice-pi.equatorialenergia.com.br/login/"target="_blank">BACKOFFICE (SITE ANTIGO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://agenciavirtual.equatorialenergia.com.br/Backoffice"target="_blank">BACKOFFICE (SITE NOVO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia.my.salesforce.com/"target="_blank">SALESFORCE<img src="imagens/SALESFORCE.png"> </button>
+
+    </div>
+
+    <div class="regiao-box">
+       <h3 class="estado">
+      <img src="imagens/alagoas.png" alt="Bandeira do Alagoas">
+        Alagoas
+      </h3>
+
+      <button class="btn-regiao" data-link="http://ealspdccrm01.equatorial.corp:8000/sap/bc/bsp/sap/crm_ui_start/default.htm"target="_blank">SAP<img src="imagens/SAP.png"> </button>
+      <button class="btn-regiao" data-link="https://backoffice-al.equatorialenergia.com.br/login/"target="_blank">BACKOFFICE (SITE ANTIGO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://agenciavirtual.equatorialenergia.com.br/Backoffice"target="_blank">BACKOFFICE (SITE NOVO)<img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia.my.salesforce.com/"target="_blank">SALESFORCE<img src="imagens/SALESFORCE.png"> </button>
+
+    </div>
+
+    <div class="regiao-box">
+    <h3 class="estado">
+      <img src="imagens/amapa.png" alt="Bandeira do Amapá">
+        Amapá
+      </h3>
+      <button class="btn-regiao" data-link="https://ap-crm-prd.equatorial.corp:44301/sap(bD1wdCZjPTQwNQ==)/bc/bsp/sap/crm_ui_start/default.htm"target="_blank">SAP HANA<img src="imagens/SAP.png"> </button>
+      <button class="btn-regiao" data-link="https://backoffice-ap.equatorialenergia.com.br/login/"target="_blank">BACKOFFICE (SITE ANTIGO)<img src="imagens/backoffice.png"></button>
+      <button class="btn-regiao" data-link="https://agenciavirtual.equatorialenergia.com.br/Backoffice"target="_blank">BACKOFFICE (SITE NOVO)<img src="imagens/backoffice.png"></button>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia.my.salesforce.com/"target="_blank">SALESFORCE<img src="imagens/SALESFORCE.png"> </button>
+
+      </div>
+
+      <div class="regiao-box">
+      <h3 class="estado">
+      <img src="imagens/riograndedosul.png" alt="Bandeira do Rio Grande do Sul">
+        Rio Grande do Sul
+      </h3>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia-my.sharepoint.com/:w:/g/personal/jose_campelo_equatorialservicos_com_br/EcOBWnFxAYRGsDN5Mc8pLSoBMCTLG6YHjzMUrHOnQjX43Q?e=uMjIzl"target="_blank">CS<img src="imagens/CS.png"> </button>
+      <button class="btn-regiao" data-link="https://backoffice-rs.equatorialenergia.com.br/login/"target="_blank">BACKOFFICE (SITE ANTIGO) <img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia.my.salesforce.com/"target="_blank">SALESFORCE<img src="imagens/SALESFORCE.png"> </button>
+      <button class="btn-regiao" data-link="http://10.1.1.191:8080/csicrm"target="_blank">CRM Plusoft<img src="imagens/PLUSOFT.png"> </button>
+
+      </div>
+
+      <div class="regiao-box">
+      <h3 class="estado">
+      <img src="imagens/goias.png" alt="Bandeira do Goiás">
+        Goiás
+      </h3>
+      <button class="btn-regiao" data-link="http://bm4e.equatorialenergia.com.br/cbill/"target="_blank">CBILL <img src="imagens/cbill.png"> </button>
+      <button class="btn-regiao" data-link="http://bm4e.equatorialenergia.com.br/cbill/protected/home.do"target="_blank">CBILL (ALTERNATIVO)  <img src="imagens/cbill.png"> </button>
+      <button class="btn-regiao" data-link="https://backoffice-go.equatorialenergia.com.br/login/"target="_blank">BACKOFFICE (SITE ANTIGO) <img src="imagens/backoffice.png"> </button>
+      <button class="btn-regiao" data-link="https://grupoequatorialenergia.my.salesforce.com/"target="_blank">SALESFORCE<img src="imagens/SALESFORCE.png"> </button>
+      <button class="btn-regiao" data-link="http://10.1.1.191:8080/csicrm"target="_blank">CRM PLUSOFT<img src="imagens/PLUSOFT.png"> </button>
+      <button class="btn-regiao" data-link="http://sistemassatelites.equatorial.corp:8080/Sicap-adm/projeto/mercado/detalhamentoProjeto.xhtml?projetoId=925910"target="_blank">SICAP (apenas para consultas)<img src="imagens/SICAP.png"> </button>
+       
+    </div>
+
+</main>
+
+<footer>
+©Janaína de Morais Santos- 2026 ©
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
