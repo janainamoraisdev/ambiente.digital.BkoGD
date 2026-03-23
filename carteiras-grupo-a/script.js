@@ -12,6 +12,13 @@ let dados = null;
 let estadoAtivo = 'MA';
 let termoBusca = '';
 
+// Função para remover acentos e deixar em minúsculas
+function normalizar(str) {
+  return str
+    ? str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+    : '';
+}
+
 async function carregarDados() {
   const resp = await fetch('carteiras.json');
   dados = await resp.json();
@@ -26,7 +33,13 @@ function renderTabs() {
     const btn = document.createElement('button');
     btn.className = 'tab-btn' + (sigla === estadoAtivo ? ' ativo' : '');
     btn.textContent = info.label;
-    btn.onclick = () => { estadoAtivo = sigla; termoBusca = ''; document.getElementById('busca').value = ''; renderTabs(); renderTabela(); };
+    btn.onclick = () => {
+      estadoAtivo = sigla;
+      termoBusca = '';
+      document.getElementById('busca').value = '';
+      renderTabs();
+      renderTabela();
+    };
     container.appendChild(btn);
   });
 }
@@ -37,8 +50,10 @@ function renderTabela() {
   let lista = dados[estadoAtivo] || [];
 
   if (termoBusca) {
-    const t = termoBusca.toLowerCase();
-    lista = lista.filter(item => Object.values(item).some(v => v && v.toLowerCase().includes(t)));
+    const t = normalizar(termoBusca);
+    lista = lista.filter(item =>
+      Object.values(item).some(v => normalizar(v).includes(t))
+    );
   }
 
   document.getElementById('infoCount').textContent = `${lista.length} registro(s) encontrado(s) — ${estadoAtivo}`;
@@ -75,7 +90,7 @@ function renderTabela() {
           <tr>
             <td>${item[campoMunicipio] || ''}</td>
             <td><span class="badge">${item[campoCarteira] || ''}</span></td>
-            ${temPPM ? `<td><span class="badge badge-ppm">${item.carteira_ppm || ''}</span></td>` : ''}
+            ${temPPM ? `<td><span class="badge badge-ppm">${item.carteira_ppm || ''}</span></td>` : '' }
           </tr>`).join('')}
       </tbody>
     </table>`;
