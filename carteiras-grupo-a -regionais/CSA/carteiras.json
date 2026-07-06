@@ -1,0 +1,32 @@
+{
+
+  "CSA": [
+    {
+      "regional": "MACAPA",
+      "carteira": "PRIVADO CSA",
+      "descricao": "",
+      "agente": "",
+      "email": "",
+      "cargo": "",
+      "telefone": ""
+    },
+    {
+      "regional": "MACAPA",
+      "carteira": "PPM",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "RUDNEY FURTADO LOBATO",
+      "email": "rudney.furtado@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "96 991893267"
+    },
+    {
+      "regional": "MACAPA",
+      "carteira": "PPEF",
+      "descricao": "Poderes Públicos Estadual e Federal - Carteira Especial",
+      "agente": "MIKAELLE DA SILVA OLIVEIRA",
+      "email": "mikaelle.oliveira@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "96 91406200"
+    }
+  ]
+}

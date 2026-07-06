@@ -1,0 +1,59 @@
+{
+
+  "AP": [
+    {
+      "regional": "MACAPA",
+      "carteira": "REDE",
+      "descricao": "Atuação em todo o Estado, com administração centralizada - Carteira especial",
+      "agente": "DEIVIT PINHEIRO DE JESUS",
+      "email": "deivit.jesus@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "96 91945863"
+    },
+    {
+      "regional": "MACAPA",
+      "carteira": "REDE",
+      "descricao": "",
+      "agente": "BIANCA CONCEICAO LACERDA",
+      "email": "bianca.conceicao@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "96 91892630"
+    },
+    {
+      "regional": "MACAPA",
+      "carteira": "PPM",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "RUDNEY FURTADO LOBATO",
+      "email": "rudney.furtado@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "96 991893267"
+    },
+    {
+      "regional": "MACAPA",
+      "carteira": "PPEF",
+      "descricao": "Poderes Públicos Estadual e Federal - Carteira Especial",
+      "agente": "MIKAELLE DA SILVA OLIVEIRA",
+      "email": "mikaelle.oliveira@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "96 91406200"
+    },
+    {
+      "regional": "MACAPA",
+      "carteira": "GA AMAPA",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "HUGO BRUNO SANTOS ARAUJO",
+      "email": "hugo.santos@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "96 91918995"
+    },
+    {
+      "regional": "MACAPA",
+      "carteira": "GA AMAPA",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "REGISON MARCOS SOUSA FIGUEIRA",
+      "email": "regison.figueira@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "96 991814100"
+    }
+  ]
+}

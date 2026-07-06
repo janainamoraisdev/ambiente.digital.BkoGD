@@ -1,0 +1,400 @@
+{
+  "MA": [
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "REDE",
+      "descricao": "Atuação em todo o Estado, com administração centralizada - Carteira especial",
+      "agente": "LUCAS SANTOS VALE",
+      "email": "lucas.vale@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 8896-6677"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "REDE",
+      "descricao": "Atuação em todo o Estado, com administração centralizada - Carteira especial",
+      "agente": "JOHNATTAN RAMOS SOUSA GUSMÃO",
+      "email": "johnattan.gusmao@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 8821-5967"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "REDE",
+      "descricao": "Atuação em todo o Estado, com administração centralizada - Carteira especial",
+      "agente": "RENATO MENDES HENRIQUE",
+      "email": "renato.henrique@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98886-8766"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "REDE",
+      "descricao": "Atuação em todo o Estado, com administração centralizada - Carteira especial",
+      "agente": "RISIA RUTH MOURAO LIMA",
+      "email": "risia.lima@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98882 5164"
+    },
+    {
+      "regional": "SUL",
+      "carteira": "PPM IMP",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "MATHEUS LIMA OLIVEIRA",
+      "email": "oliveira.matheus@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 98817-5066"
+    },
+    {
+      "regional": "SUL",
+      "carteira": "PPM IMP",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "JARLENE DOS REIS SILVA",
+      "email": "jarlene.silva@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "99 98834-1036"
+    },
+    {
+      "regional": "SUL",
+      "carteira": "PPM BALSAS",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "SUZANY MENDES MOTA",
+      "email": "suzany.mota@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 98834-1026"
+    },
+    {
+      "regional": "SUL",
+      "carteira": "PPM BALSAS",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "DANIEL DAYNNE MONTE VIANA",
+      "email": "daniel.viana@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": ""
+    },
+    {
+      "regional": "SUL",
+      "carteira": "PPM BALSAS",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "SAMYA LUSTOSA DE ALENCAR",
+      "email": "samya.nogueira@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98929-5920"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "PPEF",
+      "descricao": "Poderes Públicos Estadual e Federal - Carteira Especial",
+      "agente": "LUANA DE NAZARÉ VELOSO DE CARVALHO",
+      "email": "luana.carvalho@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 98874-5820"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "PPEF",
+      "descricao": "Poderes Públicos Estadual e Federal - Carteira Especial",
+      "agente": "JANAINA BORGES DE MORAES",
+      "email": "janaina.moraes@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 9105-3624"
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTETUR",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "CHARLES RODRIGO BARROS FREITAS",
+      "email": "charles.freitas@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 9884-85435"
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTETUR",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "INGRID MARIA RODRIGUES FRAZÃO",
+      "email": "ingrid.frazao@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98872-8886"
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTEROSA",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "ALLAN DE ARAUJO ALMEIDA",
+      "email": "allan.almeida@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 98899-6479"
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTEROSA",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "GEYSE MARIA ROSA RODRIGUES",
+      "email": "geyse.rodrigues@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98899-5632"
+    },
+    {
+      "regional": "NOROESTE",
+      "carteira": "NORTEPHO",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "JUCINALDO GOMES",
+      "email": "jucinaldo.gomes@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 8899-5640"
+    },
+    {
+      "regional": "NOROESTE",
+      "carteira": "NORTEPHO",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "JOSE ERIVAN CORDEIRO RIBEIRO JUNIOR",
+      "email": "jose.r.junior@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98931-8576"
+    },
+    {
+      "regional": "NOROESTE",
+      "carteira": "NORTEGNF",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "CARLOS CESAR DOS SANTOS ARAUJO",
+      "email": "carlos.c.araujo@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 98899-1220"
+    },
+    {
+      "regional": "NOROESTE",
+      "carteira": "NORTEGNF",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "CARLA DANIELE ALVES RIBEIRO",
+      "email": "carla.alves@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98802-4089"
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTECAL",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "VAGA EM ABERTO",
+      "email": "",
+      "cargo": "Consultor",
+      "telefone": ""
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTECAL",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "NATASHA RACHEL DA SILVA LOPES",
+      "email": "natasha.lopes@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98818-1382"
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTEBR",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "MOISES DOS SANTOS SANTANA",
+      "email": "moises.santana@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 99123-8184"
+    },
+    {
+      "regional": "NORTE",
+      "carteira": "NORTEBR",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "NYLDESON DE SOUSA ALVES",
+      "email": "nyldeson.alves@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98931-8530"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "MASTER",
+      "descricao": "Demanda contratada a partir de 750kW - Carteira especial",
+      "agente": "VAGNER MACIEL DE OLIVEIRA",
+      "email": "vagner.oliveira@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 98824-9571"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "MASTER",
+      "descricao": "Demanda contratada a partir de 750kW - Carteira especial",
+      "agente": "CINTIA MORAIS GARRAS",
+      "email": "cintia.garras@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 99212-3492"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "LESTETMON",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "SAMUEL TORRES DE FREITAS",
+      "email": "samuel.freitas@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 98817-5008"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "LESTETMON",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "CRISTIANNE ANDRADE DOS SANTOS",
+      "email": "cristianne.santos@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": ""
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "LESTETMON",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "LUCAS DE BRITO SILVA",
+      "email": "lucas.b.silva@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 99114-1038"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "LESTECHAP",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "ANTONIO LEITE VALLE",
+      "email": "antonio.valle@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 98817-5068"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "LESTECHAP",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "LAYELY JOSNAYRA SILVA ABREU CASTRO",
+      "email": "layely.castro@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": ""
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "GDIS",
+      "descricao": "Geração Distribuída - Carteira especial",
+      "agente": "PEDRO IGOR ATAIDE FREITAS MENDES",
+      "email": "pedro.mendes@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 98808-2848"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "GDIS",
+      "descricao": "Geração Distribuída - Carteira especial",
+      "agente": "ELBERTH FELIPE ARAUJO LINDOZO",
+      "email": "elberth.lindozo@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "99 99156-1458"
+    },
+    {
+      "regional": "SUL",
+      "carteira": "GA IMP",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "LINNEKER DE MELO RODRIGUES",
+      "email": "linneker.rodrigues@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 98803-6454"
+    },
+    {
+      "regional": "SUL",
+      "carteira": "GA IMP",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "DANIEL DAYNNE MONTE VIANA",
+      "email": "daniel.viana@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": ""
+    },
+    {
+      "regional": "SUL",
+      "carteira": "GA IMP",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "EDVANYLSON DA COSTA SANTOS",
+      "email": "edvanylson.santos@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": ""
+    },
+    {
+      "regional": "SUL",
+      "carteira": "GA IMP",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "MARICLAUDIA DE BRITO GONÇALVES DE SOUSA",
+      "email": "mariclaudia.goncalves@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 99195-7224"
+    },
+    {
+      "regional": "SUL",
+      "carteira": "GA BALSAS",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "LUCA ALVES MORAES",
+      "email": "luca.moraes@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 98817-5068"
+    },
+    {
+      "regional": "CENTRO",
+      "carteira": "CENTROSTI",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "JOEL DE SOUSA MOREIRA",
+      "email": "joel.moreira@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "98 98816-1532"
+    },
+    {
+      "regional": "CENTRO",
+      "carteira": "CENTROSTI",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "LUIS FERNANDO PINTO VAZ",
+      "email": "luis.vaz@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "98 98880 8610"
+    },
+    {
+      "regional": "CENTRO",
+      "carteira": "CENTROPDT",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "ARTEMILTON ALVES TORRES",
+      "email": "artemilton.torres@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "99 9881-75049"
+    },
+    {
+      "regional": "CENTRO",
+      "carteira": "CENTROPDT",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "GLEYSON ALEXSANDRO CUNHA SILVA",
+      "email": "gleyson.silva@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "99 98834 1039"
+    },
+    {
+      "regional": "CENTRO",
+      "carteira": "CENTROPDT",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "WALYSSON SILVA DOS SANTOS",
+      "email": "walysson.santos@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "99 99156-3037"
+    },
+    {
+      "regional": "CENTRO",
+      "carteira": "CENTROBCB",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "Walkyr de Jesus Sá Marinho",
+      "email": "walkyr.marinho@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": ""
+    },
+    {
+      "regional": "CENTRO",
+      "carteira": "CENTROBCB",
+      "descricao": "Híbrida (prefeituras + Grupo A) - Carteira regional",
+      "agente": "MARIA GORETE SILVA SANTOS",
+      "email": "gorete.silva@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "99 98817 3000"
+    }
+  ]
+}

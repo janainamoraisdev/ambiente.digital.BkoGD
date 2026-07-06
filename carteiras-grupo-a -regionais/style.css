@@ -1,0 +1,65 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', sans-serif; background: #f0f4ff; color: #1e293b; min-height: 100vh; padding: 24px; }
+
+h1 { text-align: center; font-size: 1.6rem; font-weight: 600; margin-bottom: 24px; color: #0f172a; }
+
+.estado-tabs {
+  display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 24px;
+}
+.tab-btn {
+  padding: 8px 20px; border: none; border-radius: 8px; cursor: pointer;
+  background: #ffffff; color: #64748b; font-size: 0.875rem; font-weight: 500;
+  border: 1px solid #e2e8f0;
+  transition: all 0.2s;
+}
+.tab-btn:hover { background: #e8eeff; color: #1e40af; border-color: #bfdbfe; }
+.tab-btn.ativo { background: #2563eb; color: #fff; border-color: #2563eb; }
+
+.busca-container { display: flex; justify-content: center; margin-bottom: 20px; }
+.busca-input {
+  width: 100%; max-width: 500px; padding: 10px 16px;
+  border-radius: 8px; border: 1px solid #cbd5e1;
+  background: #ffffff; color: #0f172a; font-size: 0.95rem;
+  outline: none; box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+.busca-input:focus { border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.12); }
+
+.info-count { text-align: center; font-size: 0.8rem; color: #94a3b8; margin-bottom: 14px; }
+
+.tabela-wrapper { overflow-x: auto; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 2px 12px rgba(0,0,0,0.06); }
+table { width: 100%; border-collapse: collapse; font-size: 0.875rem; background: #ffffff; }
+
+thead tr { background: #1e3a8a; }
+thead th {
+  padding: 12px 16px; text-align: left; font-weight: 600; color: #bfdbfe;
+  position: sticky; top: 0; z-index: 1;
+}
+
+tbody tr { border-top: 1px solid #f1f5f9; transition: background 0.15s; }
+tbody tr:hover { background: #eff6ff; }
+tbody td { padding: 10px 16px; color: #475569; vertical-align: top; }
+
+/* Colunas agrupadas por carteira (rowspan): Regional, Carteira, O que é */
+td[rowspan] {
+  background: #f8fafc;
+  border-right: 1px solid #eef2f7;
+  vertical-align: middle;
+}
+td[rowspan]:nth-of-type(2) { font-weight: 600; color: #1e293b; }
+td[rowspan]:nth-of-type(3) { color: #64748b; font-size: 0.8rem; }
+
+/* Coluna Agente em destaque */
+tbody td:nth-last-child(3) { font-weight: 500; color: #1e293b; }
+
+tbody td a { color: #2563eb; text-decoration: none; }
+tbody td a:hover { text-decoration: underline; }
+
+.badge {
+  display: inline-block; padding: 2px 10px; border-radius: 99px;
+  font-size: 0.75rem; font-weight: 600;
+  background: #e2e8f0; color: #475569;
+}
+.badge-consultor { background: #dbeafe; color: #1d4ed8; }
+.badge-assistente { background: #dcfce7; color: #16a34a; }
+
+.nenhum { text-align: center; padding: 48px; color: #94a3b8; font-size: 0.95rem; }

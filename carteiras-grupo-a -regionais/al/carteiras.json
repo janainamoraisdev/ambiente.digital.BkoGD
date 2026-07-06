@@ -1,0 +1,203 @@
+{
+
+  "AL": [
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "REDE",
+      "descricao": "Atuação em todo o Estado, com administração centralizada - Carteira especial",
+      "agente": "MILENA LOPES DE LIMA MACHADO",
+      "email": "milena.machado@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 98878 1715"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "REDE",
+      "descricao": "Atuação em todo o Estado, com administração centralizada - Carteira especial",
+      "agente": "KLINDJA LIVIA DA SILVA BARBOSA",
+      "email": "klindja.barbosa@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 98114-2883"
+    },
+    {
+      "regional": "OESTE",
+      "carteira": "PPM OESTE",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "RAFAEL BARROS",
+      "email": "rafael.b.silva@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 99324 7965"
+    },
+    {
+      "regional": "OESTE",
+      "carteira": "PPM OESTE",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "JAMAICA CAVALCANTE DE OLIVEIRA",
+      "email": "jamaica.oliveira@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 99927-4447"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "PPM LESTE",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "THALES DE ALBUQUERQUE LINS",
+      "email": "thales.a.lins@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 98146-3210"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "PPM LESTE",
+      "descricao": "Poder público municipal - Carteira regional",
+      "agente": "THAMIRES VECIO HIGINO DE OLIVEIRA",
+      "email": "thamires.oliveira@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 9 8213-2746"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "PPEF",
+      "descricao": "Poderes Públicos Estadual e Federal - Carteira Especial",
+      "agente": "ANNA ANGELICA RIBEIRO OLIVEIRA",
+      "email": "anna.oliveira@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 98878-1695"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "MASTER",
+      "descricao": "Demanda contratada a partir de 750kW - Carteira especial",
+      "agente": "SIRLENE SANTOS COELHO BRITO",
+      "email": "sirlene.brito@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 99331-1577"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "MASTER",
+      "descricao": "Demanda contratada a partir de 750kW - Carteira especial",
+      "agente": "JUNCYARA TENORIO DE OLIVEIRA",
+      "email": "juncyara.oliveira@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 99326-4439"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "HOTELARIA",
+      "descricao": "Ramo da hotelaria - Carteira especial",
+      "agente": "NATALIA DOS SANTOS CAVALCANTE ACIOLI",
+      "email": "natalia.cavalcante@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 99324 8487"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "HOTELARIA",
+      "descricao": "Ramo da hotelaria - Carteira especial",
+      "agente": "FABIOLA MARIA DOS SANTOS SILVA",
+      "email": "fabiola.santos@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 8142-6246"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "GDIS",
+      "descricao": "Geração Distribuída - Carteira especial",
+      "agente": "LUCIMERI MARIA DE ALMEIDA",
+      "email": "lucimeri.almeida@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 99123-3279"
+    },
+    {
+      "regional": "EXPERIÊNCIA DO CLIENTE",
+      "carteira": "GDIS",
+      "descricao": "Geração Distribuída - Carteira especial",
+      "agente": "VANESSA FERREIRA DA SILVA",
+      "email": "vanessa.silva@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 98230 7411"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "GA_MAC 2",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "GEILMA NASCIMENTO DA SILVA",
+      "email": "geilma.silva@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 98878-1651"
+    },
+    {
+      "regional": "OESTE",
+      "carteira": "GA OESTE",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "EDNALDO MEDRADO COELHO JUNIOR",
+      "email": "ednaldo.junior@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 99324 7965"
+    },
+    {
+      "regional": "OESTE",
+      "carteira": "GA OESTE",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "MARIA CRISTIANE MEDEIROS DA SILVA",
+      "email": "cristiane.medeiros@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 98221-3783"
+    },
+    {
+      "regional": "OESTE",
+      "carteira": "GA OESTE",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "EDUARDO ERIVELTON DA SILVA SANTOS",
+      "email": "eduardo.s.santos@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 9 8889-0377"
+    },
+    {
+      "regional": "OESTE",
+      "carteira": "GA OESTE",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "AMANDA CAROLINE SANTOS DA SILVA",
+      "email": "amanda.santos@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 98160-5583"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "GA METRO",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "LUCAS DE MOURA LOBAO",
+      "email": "lucas.lobao@equatorialenergia.com.br",
+      "cargo": "Consultor",
+      "telefone": "82 9321-9114"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "GA METRO",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "CAROLINE SANTOS FARIAS LEITE",
+      "email": "caroline.f.leite@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": "82 98115-6366"
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "GA MAC 1",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "A DEFINIR",
+      "email": "",
+      "cargo": "Consultor",
+      "telefone": ""
+    },
+    {
+      "regional": "LESTE",
+      "carteira": "GA MAC 1",
+      "descricao": "Grupo A - Carteira regional",
+      "agente": "CLEBER VIRGENIO DE SOUZA SILVA",
+      "email": "cleber.souza@equatorialenergia.com.br",
+      "cargo": "Assistente",
+      "telefone": ""
+    }
+  ]
+}
